@@ -5,17 +5,7 @@ Fassung vom 27. November 2010
 
 Präambel
 
-Der Einzug von digitaler Informationsverarbeitung ins Alltagsleben unserer
-Gesellschaft hat eine Vielzahl von Möglichkeiten geschaffen. Der Umgang von
-Mensch mit Maschine und die schon als Eigenleben qualifizierbare Beweglichkeit
-von Daten bergen viele Chancen, erfordern aber auch spezielle Fähigkeiten und
-ein Bewusstsein für Risiken und Gefahren.
-
-Wir sind eine Gemeinschaft von Lebewesen, unabhängig von Alter, Geschlecht,
-Herkunft, politischer Ausrichtung und gesellschaftlicher Stellung, die im
-Umgang mit Informationstechnologie bildet, damit zusammenhängende Formen von
-Kunst und Kultur fördert und sich für eine jedem Wesen gerechte Entwicklung
-der Informationsgesellschaft einsetzt.
+...
 
 
 § 1 Name, Sitz, Geschäftsjahr
