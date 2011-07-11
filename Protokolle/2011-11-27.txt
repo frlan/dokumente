@@ -1,0 +1,263 @@
+
+PROTOKOLL
+
+Wer?
+- Frank Lanitz
+- Ruben Reifenberg
+- Konrad Schöbel
+
+Wann?
+- 27. November 2010
+- 15:30 - 21:30 Uhr
+
+Wo?
+- bei Frank zu Hause
+
+
+Tagesordnung
+------------
+
+1. Kontaktaufnahme zum TIP
+2. Vereinsname / Name des Raumes
+3. Was ist ein Hackspace?
+4. Satzung
+5. Sonstiges
+
+
+1. Kontaktaufnahme TIP
+----------------------
+
+Es sprechen keine wichtigen Gründe gegen den Raum im TIP.  Wir versuchen es
+also, diesen zu mieten.  Wir treten dabei als (zukünftiger) Verein auf und
+nicht über eine Firma.
+
+Dazu werden wir in den nächsten Tagen den Geschäftsführer des TIP, Herrn
+Randolf Margull, kontaktieren und mit ihm ein Treffen vereinbaren, bei dem wir
+unser Anliegen vorstellen. [>Frank & Konrad, eventuell Ruben]  Zuvor überlegen
+wir uns gut, wie wir die Idee präsentieren.
+
+Als Referenzen können wir nennen:
+- André Kabeck, Gründungsbeauftragter der Fachhochschule [<Ruben]
+- Björn Jacob & Robert Barnebeck, Geschäftsführer Tritum mit Sitz im TIP
+  [<Frank]
+
+
+2. Vereinsname
+--------------
+
+Verein und Hackspace sollten den selben, prägnanten Namen tragen.  Dieser muss
+zur Vereinsgründung feststehen.  Deshalb sind wir auch weiterhin nicht nur auf
+der Suche nach einem solchen Namen, sondern auch nach kreativen Ideen zur
+Namensfindung.
+
+Es wird ein Brainstorming im LUG-Chat veranstaltet.  Dieses wird zuvor auf
+diversen Mailinglisten (LUG, Freifunk, Piraten) und in anderen Kanälen
+angekündigt. [>Frank]  Es soll an einem Wochentag abends stattfinden.
+
+Es sollen Namensgeneratoren im Netz gesucht und ausprobiert werden.  Wer Lust
+und Zeit hat, kann einen Bot schreiben, der die Wortfetzen aus dem Chat in
+einen solchen Generator überträgt und dann die Ergebnisse wieder in den Chat
+einspeist.
+
+Wir haben selbst ein kleines Brainstorming veranstaltet.  Das Ergebnis wird
+unter Verschluss gehalten und als Startwerte bzw. Katalysatoren für das
+Brainstorming in den Chat injiziert.
+
+
+3. Was ist ein Hackspace?
+-------------------------
+
+Für diverse Zwecke benötigen wir Beschreibungen unterschiedlicher Länge,
+welche erklären, was wir unter einem Hackspaces verstehen.  Zum Beispiel:
+
+- Ganzkurzversion für Leute, die wissen was ein "Coworking-Space" ist:
+
+Ein Hackspace ist ein nichtkommerzieller Coworking-Space.
+
+- Enzyklopädie-Eintrag [<Ruben]
+
+Hackspace:  Von den Mitgliedern selbst finanzierte Räumlichkeiten
+mit Ausstattung für nichtkommerzielle Projekte - anders als der Name
+vielleicht suggeriert, nicht zwingend im Informatikbereich, sondern
+gleichermaßen für handwerkliche und künstlerische Tätigkeiten.
+
+Es fehlt noch eine Ein-Absatz-Variante sowie ein etwas ausführlicherer Text,
+der auch erklärt warum und wer wir eigentlich sind.  [>Konrad]
+
+Dafür haben wir folgende Stichworte zusammen gesammelt (unsortiert):
+
+- nichtkommerziell
+- offen für jeden
+- Kunst
+- Handwerk
+- technik- und netzaffines Umfeld
+- Privatpersonen und Initiativen
+- themenübergreifend
+- Forschen und Spielen mit Technik
+- unabhängig
+- parteilos
+- Werkstätte
+- Hacktivism
+- technisch-kreative Projekte
+- gemeinschaftlich betriebener Raum
+- Infrastruktur für Wissensaustausch
+- kreative Köpfe
+- Treffpunkt
+- Informations- und Kommunikationstechnologie
+- neue Medien
+- digitale Kunst
+- do-it-yourself
+- Teilen von Wissen
+- gemeinsames Lernen
+
+
+4. Satzung & Geschäftsordnung
+-----------------------------
+
+Das Sublab in Leipzig entspricht in etwa unseren Vorstellungen von einem
+Hackspace und es besteht auch schon Kontakt dorthin.  Deshalb nehmen wir als
+Grundlage eine 1:1-Kopie von deren Satzung und Geschäftsordnung und
+modifizieren diese wie folgt.
+
+	http://sublab.org/lib/exe/fetch.php?media=verein:papierkram:satzung-rev-143.pdf
+	http://sublab.org/lib/exe/fetch.php?media=verein:papierkram:geschaftsordnung-rev-143.pdf
+
+
+SATZUNG
+-------
+
+Präambel
+
+Die Präambel wird neu geschrieben.
+
+
+§2 Zweck, Gemeinnützigkeit
+
+In §52 Absatz 2 der Abgabenordnung ist festgelegt, welche Ziele als
+gemeinnützig zählen.  Davon kommen folgende Punkte für uns in Frage:
+
+ 1. die Förderung von Wissenschaft und Forschung
+ 5. die Förderung von Kunst und Kultur
+ 7. die Förderung der Erziehung, Volks- und Berufsbildung einschließlich der
+    Studentenhilfe
+13. die Förderung internationaler Gesinnung, der Toleranz auf allen Gebieten
+    der Kultur und des Völkerverständigungsgedankens
+18. die Förderung der Gleichberechtigung von Frauen und Männern
+20. die Förderung der Kriminalprävention
+23. die Förderung der Tierzucht, der Pflanzenzucht, der Kleingärtnerei, des
+    traditionellen Brauchtums einschließlich des Karnevals, der Fastnacht und des
+    Faschings, der Soldaten- und Reservistenbetreuung, des Amateurfunkens, des
+    Modellflugs und des Hundesports
+24. die allgemeine Förderung des demokratischen Staatswesens im
+	Geltungsbereich dieses Gesetzes; hierzu gehören nicht Bestrebungen, die
+	nur bestimmte Einzelinteressen staatsbürgerlicher Art verfolgen oder die
+	auf den kommunalpolitischen Bereich beschränkt sind
+
+Punkte 1, 18, 23 zusätzlich zur Sublab-Satzung,
+Punkt 23 wegen "Modellflug" und "Amateurfunk" (Freifunk)
+
+
+§8 Vorstand, Absatz 1
+
+"Der Vorstand besteht aus folgenden drei Mitgliedern:  dem
+Vorstandsvorsitzenden, dem Schatzmeister und dem Schriftführer."
+
+
+§10 Auflösung des Vereins und Vermögensbindung, Absatz 2
+
+Frank findet folgende Bedingung zu einschränkend:
+
+	"Zur Erfüllung dieser Voraussetzung wird das Vermögen einer anderen
+	steuerbegünstigte Körperschaft oder Körperschaft öffentlichen Rechts für
+	steuerbegünstigte Zwecke übertragen, die ebenfalls den Auftrag zur Bildung
+	und Volksbildung im Umgang mit Informationstechnologie wahrnimmt."
+
+
+GESCHÄFTSORDNUNG
+----------------
+
+§1 Mitgliedsbeiträge, Absatz 1
+
+Der ermäßigte sowie der volle Mitgliedsbeitrag werden vorerst in Abhängigkeit
+von der Höhe der Raummiete und der Anzahl der Gründungsmitglieder festgesetzt.
+
+
+§1 Mitgliedsbeiträge, Absatz 2
+
+- Behindertenbescheinigung
+- explizite Erwähnung von "Harz-IV" streichen
+- Sozialversicherungsfreiheit als Kriterium (Erklärung?)
+
+
+§5 Grundsätze der Vermögensverwaltung des Vereins
+
+Wir interpretieren den Satz
+
+	"Die Summe der Ausgaben eines Jahres darf das liquide Vereinsvermögen
+	nicht übersteigen."
+
+so, dass der Verein keine Schulden machen darf, haben aber Zweifel daran, ob
+das so korrekt formuliert ist.
+
+
+Fragen zur Satzung
+------------------
+
+Folgende Fragen sind aufgetreten und sollen - falls nicht über die
+Mailingliste - mit dem Sublab geklärt werden. [>Konrad]
+
+§2.2 (Zweck, Gemeinnützigkeit)
+- Wieso heißt es bei Bildung und Weiterbildung zu technischen Fragen "im Rahmen der
+  gesetzlichen Möglichkeiten für die Mitglieder"?
+- Warum nicht auch AO 2.1 (Förderung von Wissenschaft und Forschung) in der
+  Sublab-Satzung?
+
+§3.1 (Mitgliedschaft)
+- Wieso kann (nur) ein "nicht rechtsfähiger Verein" Mitglied werden?
+
+§7.11 (Mitgliederversammlung)
+- Was ist, wenn der Vorsitzende nicht da ist?
+- Kann er seine Aufgabe einem Stellvertreter übertragen?
+
+§10.3 (Auflösung des Vereins und Vermögensbindung)
+- Was ist in Absatz 3 gemeint?
+
+Was macht man mit Leuten die keine Mitglieder sind, weil sie es sich nicht
+leisten können, sich aber trotzdem regelmäßig aktiv einbringen und daher ein
+Stimmrecht verdient hätten?
+
+Wie wird die Eigenverantwortlichkeit der im Hackspace arbeitenden Personen
+gesichert?  Reicht dazu ein Eintrag in der Hausordnung?
+
+Welche Schritte sind für eine Vereinsgründung zu unternehmen? [>Carsten]
+
+Am Ende haben wir uns dann den Kopf zerbrochen, wie man den Hash der Satzung
+in selbige Satzung mit aufnehmen kann ...
+
+
+5. Sonstiges
+------------
+
+Es sollen die Möglichkeiten ausgelotet werden, in der Satzung ein "easter egg"
+zu vergraben.  Im Hinblick auf eine weitsichtige Satzung wurden dafür folgende
+Punkte vorgeschlagen:
+
+- Mitgliedschaft für künstliche Intelligenzen bei Bestehen des Turing-Tests
+- Ende der Mitgliedschaft bei Übergang in ein Paralleluniversum (Nexus)
+
+Wau Holland, einer der Vordenker und Gründerväter des Chaos Computer Club, hat
+von 1998 bis 2000 in einem Jugendzentrum in Jena Jugendlichen das Hacken nahe
+gebracht.  Ein Hackspace in Jena sollte an diese Geschichte anknüpfen.  Dazu
+muss ein wenig Recherche betrieben werden. [>Frank]
+
+Wir suchen eine kleine Wiki-Software, die möglichst nicht in PHP geschrieben
+ist.  Vorschläge?  Wir würden wenn möglich eine Python-Lösung bevorzugen.
+
+Welche Schritte sind zur Gründung eines Vereins notwendig? [>Carsten]
+
+Links
+
+	http://hackerspaces.org/
+	http://metalab.at/wiki/Info_Folder
+	http://sublab.org/
+
