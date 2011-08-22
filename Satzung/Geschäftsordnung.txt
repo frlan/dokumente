@@ -1,7 +1,6 @@
 Geschäftsordnung des Hackspace Jena e.V.
 Fassung vom 27. November 2010
 
-
 § 1 Mitgliedsbeiträge
 
 1. Der Verein erhebt gemäß §5 seiner Satzung Mitgliedsbeiträge wie folgt:
@@ -18,7 +17,7 @@ des Arbeitsamtes oder eines vergleichbaren Nachweises gegenüber dem
 Vorstand. Der entsprechende Nachweis ist jährlich neu zu erbringen.
 
 3. Die Nerdmitgliedschaft steht jedem Mitglied zur Wahl, das den
-Verein stärker finanziell unterstützen mochte. Mit einer solchen
+Verein stärker finanziell unterstützen möchte. Mit einer solchen
 Nerdmitgliedschaft sind keinerlei Privilegien oder Stimmvorteile
 gegenüber den anderen beiden Mitgliedschaften verbunden.
 
