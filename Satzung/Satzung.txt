@@ -244,7 +244,7 @@ von der Geschäftsordnung festgelegt wird.
 
 9. Der Vorstand tritt nach Bedarf zusammen. Die Vorstandssitzungen
 werden vom Schriftführer schriftlich einberufen. Der Vorstand ist
-beschlussfähig wenn mindestens zwei Drittel der Vorstandsmitglieder
+beschlussfähig, wenn mindestens zwei Drittel der Vorstandsmitglieder
 anwesend sind. Die Beschlüsse der Vorstandssitzung sind schriftlich
 zu protokollieren.
 
