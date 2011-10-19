@@ -247,10 +247,9 @@ beschlussfähig, wenn mindestens zwei Drittel der Vorstandsmitglieder
 anwesend sind. Die Beschlüsse der Vorstandssitzung sind schriftlich
 zu protokollieren.
 
-10. Vorstandsvorsitzender, Schatzmeister und Schriftführer haben bei
-Abstimmungen des Vorstands jeweils zwei Stimmen. Jeder Beisitzer hat
-eine Stimme. Bei Abstimmungen ist eine Mehrheit von zwei Dritteln
-der abgegebenen gültigen Stimmen nötig.
+10. Jedes Vorstandsmitglied hat bei Abstimmungen des Vorstands eine
+Stimme. Bei Abstimmungen ist eine Mehrheit von zwei Dritteln der
+abgegebenen gültigen Stimmen nötig.
 
 
 § 9 Satzungs- und Geschäftsordnungsänderung
