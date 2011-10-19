@@ -86,8 +86,9 @@ offene Software, etc.
 
 § 3 Mitgliedschaft
 
-1. Mitglied des Vereins kann jede natürliche oder juristische Person
-oder nicht rechtsfähiger Verein werden, der seine Ziele unterstützt.
+1. Ordentliches Mitglied des Vereins kann jede natürliche Person werden,
+die seine Ziele unterstützt.  Fördermitglied kann jede natürliche oder
+juristische Person werden.
 
 2. Über die Aufnahme von Mitgliedern entscheidet der Vorstand.
 
@@ -125,9 +126,9 @@ Mitgliederversammlung ruht die Mitgliedschaft.
 
 § 5 Rechte und Pflichten der Mitglieder
 
-1. Die Mitglieder sind berechtigt, die Leistungen des Vereins
-entsprechend der vorhandenen Möglichkeiten und in angemessenem und
-verhältnismäßigem Ausmaß in Anspruch zu nehmen.
+1. Die ordentlichen Mitglieder sind berechtigt, die Leistungen des
+Vereins entsprechend der vorhandenen Möglichkeiten und in angemessenem
+und verhältnismäßigem Ausmaß in Anspruch zu nehmen.
 
 2. Die Mitglieder sind verpflichtet, die satzungsgemäßen Zwecke des
 Vereins zu unterstützen und zu fördern.
@@ -156,7 +157,7 @@ wurden.
 Abstimmung getroffen. Auf Wunsch eines Mitglieds ist geheim
 abzustimmen.
 
-3. Jedes Mitglied hat genau eine Stimme.
+3. Jedes ordentliche Mitglied hat genau eine Stimme.
 
 4. Zur Fassung eines Beschlusses ist eine einfache Mehrheit der
 abgegebenen Stimmen notwendig. Ausgenommen sind die in §9 und §10
