@@ -46,7 +46,8 @@ nötig.
 § 4 Beschlussfähigkeit der Mitgliederversammlung
 
 1. Die Untergrenze für die Beschlussfähigkeit der
-Mitgliederversammlung gemäß Satzung §7 beträgt 23% der Mitglieder.
+Mitgliederversammlung gemäß Satzung §7 beträgt 23% der ordentlichen
+Mitglieder.
 
 
 § 5 Grundsätze der Vermögensverwaltung des Vereins

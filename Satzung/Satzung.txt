@@ -154,7 +154,7 @@ Satzung oder die Geschäftsordnung einem anderen Organ übertragen
 wurden.
 
 2. Beschlüsse werden von der Mitgliederversammlung durch öffentliche
-Abstimmung getroffen. Auf Wunsch eines Mitglieds ist geheim
+Abstimmung getroffen. Auf Wunsch eines ordentlichen Mitglieds ist geheim
 abzustimmen.
 
 3. Jedes ordentliche Mitglied hat genau eine Stimme.
@@ -172,9 +172,9 @@ Vorstands über die Vereinstätigkeit sowie den Rechenschaftsbericht des
 Schatzmeisters für das vorherige Geschäftsjahr.
 
 6. Eine außerordentliche Mitgliederversammlung kann jederzeit
-einberufen werden, wenn mindestens 23% der Mitglieder oder der
-Vorstand dies jeweils schriftlich gemäß §11 unter Angabe eines
-Grunds beantragen. Dem angegebenen Grund müssen die gewünschten
+einberufen werden, wenn mindestens 23% der ordentlichen Mitglieder
+oder der Vorstand dies jeweils schriftlich gemäß §11 unter Angabe
+eines Grunds beantragen. Dem angegebenen Grund müssen die gewünschten
 Tagesordnungspunkte zu entnehmen sein; sie werden auf die Einladung
 übernommen.
 
@@ -207,11 +207,11 @@ bestimmen.
 
 § 8 Vorstand
 
-1. Der Vorstand besteht aus mindestens drei Mitgliedern: dem
-Vorstandsvorsitzenden, dem Schatzmeister und dem Schriftführer. Des
-Weiteren können bis zu drei Beisitzer in den Vorstand gewählt
-werden. Es kann auf Wunsch der Mitglieder auf eine Wahl der
-Beisitzer verzichtet werden.
+1. Der Vorstand besteht aus mindestens drei ordentlichen Mitgliedern:
+dem Vorstandsvorsitzenden, dem Schatzmeister und dem Schriftführer.
+Des Weiteren können bis zu drei Beisitzer in den Vorstand gewählt
+werden. Es kann auf Wunsch der Mitglieder auf eine Wahl der Beisitzer
+verzichtet werden.
 
 2. Vorstand im Sinne des §26 BGB ist jedes Vorstandsmitglied.
 Vorstandsvorsitzender, Schatzmeister und Schriftführer sind einzeln
@@ -228,11 +228,11 @@ Vorstandsmitglieds ist der gesamte Vorstand neu zu wählen. Bis zur
 Wahl eines neuen Vorstands ist der bisherige Vorstand zur
 bestmöglichen Wahrnehmung seiner Aufgaben verpflichtet.
 
-6. Die Amtsdauer der Vorstandsmitglieder beträgt ein Jahr. Sie
-werden von der Mitgliederversammlung aus den Mitgliedern des Vereins
-gewählt. Es werden nacheinander Vorstandsvorsitzender, Schatzmeister
-und Schriftführer sowie falls gewünscht bis zu drei Beisitzer
-gewählt. Eine Wiederwahl ist zulässig.
+6. Die Amtsdauer der Vorstandsmitglieder beträgt ein Jahr. Sie werden
+von der Mitgliederversammlung aus den ordentlichen Mitgliedern des
+Vereins gewählt. Es werden nacheinander Vorstandsvorsitzender,
+Schatzmeister und Schriftführer sowie falls gewünscht bis zu drei
+Beisitzer gewählt. Eine Wiederwahl ist zulässig.
 
 7. Der Vorstand ist Dienstvorgesetzter aller vom Verein angestellten
 Mitarbeiter; er kann diese Aufgabe einem Vorstandsmitglied übertragen.
