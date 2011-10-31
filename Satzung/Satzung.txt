@@ -106,7 +106,7 @@ Ausschluss, durch Tod von natürlichen Personen oder durch Auflösung
 und Erlöschung von nicht natürlichen Personen. Die Beitragspflicht
 für das laufende Geschäftsjahr wird von der Geschäftsordnung geregelt.
 
-6. Der Austritt wird durch gemäß §11 schriftliche Willenserklärung
+6. Der Austritt wird durch eine gemäß §11 schriftliche Willenserklärung
 gegenüber dem Vorstand erklärt.
 
 
@@ -300,4 +300,3 @@ werden entsprechend übertragen.
 1. Schriftliche Erklärungen im Sinne dieser Satzung können auch
 elektronische Dokumente sein. Die Geschäftsordnung bestimmt
 Anforderungen, Zustellwege und Zuordnung derartiger Dokumente.
-
