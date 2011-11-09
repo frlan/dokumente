@@ -1,3 +1,4 @@
+
 Geschäftsordnung des Hackspace Jena e.V.
 Fassung vom 27. November 2010
 
@@ -30,7 +31,7 @@ Ordnung unter §2 zum Austritt angegeben.
 
 § 2 Verpflichtungen nach Austritt
 
-1. Das Ende der Mitgliedschaft eines Mitglied entbindet dieses nicht
+1. Das Ende der Mitgliedschaft eines Mitglieds entbindet dieses nicht
 von der Beitragsverpflichtung bis zum nächsten Quartalsende.
 
 
@@ -59,10 +60,10 @@ Vereinsvermögen nicht übersteigen.
 § 6 Aufgaben des Schatzmeisters
 
 1. Der Schatzmeister hat auf eine sparsame und wirtschaftliche
-Haushaltsführung hinzuwirken
+Haushaltsführung hinzuwirken.
 
-2. Der Schatzmeister legt nach Eintragung des Vereines in das
-Vereinsregister ein Konto auf den Namen des Vereines an und
+2. Der Schatzmeister legt nach Eintragung des Vereins in das
+Vereinsregister ein Konto auf den Namen des Vereins an und
 verwaltet dort das Vereinsvermögen.
 
 3. Für Abhebungen vom Vereinskonto ist die Unterschrift von zwei
@@ -78,15 +79,15 @@ Ausgaben über 100€ sind dabei einzeln aufzulisten.
 Mitgliedsbeiträge und anderer Einnahmen zu organisieren. Dabei
 genießt er die volle Unterstützung des Vorstands.
 
-6. Für laufende Einnahmen und Ausgaben fuhrt der Schatzmeister eine
+6. Für laufende Einnahmen und Ausgaben führt der Schatzmeister eine
 Bargeldkasse. Überschüssige Bargeldsummen werden von ihm regelmäßig
 auf dem Vereinskonto abgelegt.
 
 7. Für Bareingänge stellt der Schatzmeister eine formgerechte
-Quittung in doppelter Ausfertigung aus, davon eine für den Einzahler.
+Quittung in doppelter Ausfertigung aus, eine davon für den Einzahler.
 
 8. Der Schatzmeister legt ein geeignetes Vermögensregister an, das
-nach den Regeln der einfachen Buchführung zu fuhren ist und aus
+nach den Regeln der einfachen Buchführung zu führen ist und aus
 folgenden Teilen besteht:
 
 - Kassenbuch für die Bargeldkasse
@@ -143,3 +144,4 @@ Mitglieder zu Sicherheits- und Schutzmaßnahmen, gesetzlichen
 Regelungen und notwendigen Verhaltensweisen zur Vermeidung von
 Unfällen. Weiterhin überprüft er die Einhaltung dieser Regelungen in
 den Räumen des Vereins.
+
