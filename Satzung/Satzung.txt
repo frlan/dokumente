@@ -38,9 +38,9 @@ Vergütungen begünstigt werden.
 folgenden Mittel:
 
 - Aufbau einer Begegnungsstätte für Veranstaltungen, Experimente,
-kommunikativem Austausch, etc.
+kommunikativen Austausch, etc.
 
-- Regelmäßige öffentliche Treffen und Informationsveranstaltungen
+- regelmäßige öffentliche Treffen und Informationsveranstaltungen
 
 - Veranstaltungen und/oder Förderung internationaler Kongresse, Treffen
 
@@ -180,9 +180,9 @@ Tagesordnungspunkte zu entnehmen sein; sie werden auf die Einladung
 
 7. Dem Vorstand obliegt zu allen Mitgliederversammlungen die
 Festsetzung eines Termins und die rechtzeitige Einladung aller
-Mitglieder bis spätestens 2 Wochen vor dem von ihm festgesetzten
+Mitglieder bis spätestens zwei Wochen vor dem von ihm festgesetzten
 Termin. Bei von den Mitgliedern beantragten Mitgliederversammlungen
-darf der Termin nicht mehr als 8 Wochen nach dem Eingang des Antrags
+darf der Termin nicht mehr als acht Wochen nach dem Eingang des Antrags
 beim Vorstand liegen.
 
 8. Der Vorstand kann die Einladungen auf schriftlichem Weg gemäß §11
@@ -235,10 +235,10 @@ Schatzmeister und Schriftführer sowie falls gewünscht bis zu drei
 Beisitzer gewählt. Eine Wiederwahl ist zulässig.
 
 7. Der Vorstand ist Dienstvorgesetzter aller vom Verein angestellten
-Mitarbeiter; er kann diese Aufgabe einem Vorstandsmitglied übertragen.
+Mitarbeiter. Er kann diese Aufgabe einem Vorstandsmitglied übertragen.
 
-8. Die Vorstandsmitglieder sind grundsätzlich ehrenamtlich tätig;
-sie haben Anspruch auf Erstattung notwendiger Auslagen, deren Rahmen
+8. Die Vorstandsmitglieder sind grundsätzlich ehrenamtlich tätig.
+Sie haben Anspruch auf Erstattung notwendiger Auslagen, deren Rahmen
 von der Geschäftsordnung festgelegt wird.
 
 9. Der Vorstand tritt nach Bedarf zusammen. Die Vorstandssitzungen
@@ -300,3 +300,4 @@ werden entsprechend übertragen.
 1. Schriftliche Erklärungen im Sinne dieser Satzung können auch
 elektronische Dokumente sein. Die Geschäftsordnung bestimmt
 Anforderungen, Zustellwege und Zuordnung derartiger Dokumente.
+
