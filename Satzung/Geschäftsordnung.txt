@@ -25,19 +25,11 @@ Vorstand. Der entsprechende Nachweis ist jährlich neu zu erbringen.
 Mitgliedsbeitrag stärker finanziell zu unterstützen. Damit sind keinerlei
 Privilegien oder Stimmvorteile verbunden.
 
-4. Änderungen bezüglich der Mitgliedschaft (Mitgliedsbeitrag oder
-Mitgliedsart) sind dem Vorstand schriftlich mitzuteilen. Sofern
-nicht anders, vereinbart gelten die gleichen Fristen wie in dieser
-Ordnung unter §2 zum Austritt angegeben.
+4. Änderungen bezüglich Mitgliedsbeitrag oder Mitgliedsart sind dem
+Vorstand schriftlich mitzuteilen und gelten mit sofortiger Wirkung.
 
 
-§ 2 Verpflichtungen nach Austritt
-
-1. Das Ende der Mitgliedschaft eines Mitglieds entbindet dieses nicht
-von der Beitragsverpflichtung bis zum nächsten Quartalsende.
-
-
-§ 3 Einschränkungen der Verfügungsberechtigung des Vorstands
+§ 2 Einschränkungen der Verfügungsberechtigung des Vorstands
 
 1. Einzelne Vorstandsmitglieder sind bei Rechtsgeschäften bis zu
 einem Betrag von 500€ verfügungsberechtigt. Über einen Betrag von
@@ -46,20 +38,20 @@ höheren Beträgen ist ein Beschluss durch die Mitgliederversammlung
 nötig.
 
 
-§ 4 Beschlussfähigkeit der Mitgliederversammlung
+§ 3 Beschlussfähigkeit der Mitgliederversammlung
 
 1. Die Untergrenze für die Beschlussfähigkeit der
 Mitgliederversammlung gemäß Satzung §7 beträgt 23% der ordentlichen
 Mitglieder.
 
 
-§ 5 Grundsätze der Vermögensverwaltung des Vereins
+§ 4 Grundsätze der Vermögensverwaltung des Vereins
 
 1. Die Summe der Ausgaben eines Jahres darf das liquide
 Vereinsvermögen nicht übersteigen.
 
 
-§ 6 Aufgaben des Schatzmeisters
+§ 5 Aufgaben des Schatzmeisters
 
 1. Der Schatzmeister hat auf eine sparsame und wirtschaftliche
 Haushaltsführung hinzuwirken.
@@ -114,7 +106,7 @@ Zugänge und Abgänge den Vereinsmitgliedern mitgeteilt.
 durch ihn eine Bilanz zu erstellen.
 
 
-§ 7 Erstattung der Auslagen des Vorstands
+§ 6 Erstattung der Auslagen des Vorstands
 
 1. Auslagen des Vorstandes zur Verfolgung der Vereinszwecke werden
 in voller Hohe erstattet. Auf Beschluss der Mitgliederversammlung
@@ -122,7 +114,7 @@ muss der Vorstand in einer Stellungnahme Zweck- und
 Verhältnismäßigkeit der Ausgaben nachweisen.
 
 
-§ 8 Elektronische Schriftform
+§ 7 Elektronische Schriftform
 
 1. Elektronische Dokumente im Sinne von §11 der Satzung sind mit
 PGP/GPG oder mit S/MIME signierte E-Mails. Jedes Mitglied kann beim
@@ -137,8 +129,7 @@ signierten E-Mails. Ferner prüft er die Anwesenheit und erklärt
 eventuell vorliegende schriftlich abgegebene Stimmen anwesender
 Mitglieder öffentlich für ungültig.
 
-
-§ 9 Sicherheitsbeauftragter
+§ 8 Sicherheitsbeauftragter
 
 1. Der Vorstand ernennt einen Sicherheitsbeauftragten. Seine
 Aufgaben umfassen insbesondere die Aufklärung und Information der
