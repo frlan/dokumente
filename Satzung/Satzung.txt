@@ -73,7 +73,9 @@ digitaler Informatiaonsverarbeitungstechnik durch Aufklärung über
 rechtliche Grundsätze, angemessene Verhaltensweisen und
 Unterbreitung von Alternativen zu kriminellen Handlungsweisen.
 
-- Amateurfunk und Modellflug (AO §52 2.23)
+- Amateurfunk und Modellflug (AO §52 2.23), insbesondere den Auf- und
+Ausbau unabhängiger, freier Funknetze durch Wartung und Bereitstellung
+der nötigen Infrastruktur.
 
 - Demokratischem Staatswesen (AO §52 2.24.) im Besonderen im
 Zusammenhang mit der Entwicklung der Gesellschaft zu einer
