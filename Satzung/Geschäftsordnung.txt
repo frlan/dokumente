@@ -121,11 +121,6 @@ hinterlegen, dessen Signatur die jeweiligen E-Mails tragen müssen.
 Das Mitglied hat bei Kompromittierung des Schlüssels für
 Benachrichtigung des Vorstands zu sorgen.
 
-2. Im Abstimmungsprozess einer Mitgliederversammlung übernimmt und
-protokolliert der Schriftführer die Überprüfung und Zählung der
-signierten E-Mails. Ferner prüft er die Anwesenheit und erklärt
-eventuell vorliegende schriftlich abgegebene Stimmen anwesender
-Mitglieder öffentlich für ungültig.
 
 § 8 Sicherheitsbeauftragter
 
