@@ -207,11 +207,11 @@ bestimmen.
 
 § 8 Vorstand
 
-1. Der Vorstand besteht aus mindestens drei ordentlichen Mitgliedern:
-dem Vorstandsvorsitzenden, dem Schatzmeister und dem Schriftführer.
-Des Weiteren können bis zu drei Beisitzer in den Vorstand gewählt
-werden. Es kann auf Wunsch der Mitglieder auf eine Wahl der Beisitzer
-verzichtet werden.
+1. Der Vorstand besteht aus mindestens drei ordentlichen 
+Mitgliedern: dem Vorstandsvorsitzenden, dem Schatzmeister und dem 
+Schriftführer. Des Weiteren können bis zu drei Beisitzer in den 
+Vorstand gewählt werden. Es kann auf Wunsch der 
+Mitgliederversammlung auf eine Wahl der Beisitzer verzichtet werden.
 
 2. Vorstand im Sinne des §26 BGB ist jedes Vorstandsmitglied.
 Vorstandsvorsitzender, Schatzmeister und Schriftführer sind einzeln
