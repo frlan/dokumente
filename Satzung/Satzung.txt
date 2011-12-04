@@ -1,6 +1,5 @@
-
 Satzung des Hackspace Jena e.V.
-Fassung vom 17. Oktober 2011
+Fassung vom 30. November 2011
 
 
 Präambel
@@ -207,15 +206,15 @@ bestimmen.
 
 § 8 Vorstand
 
-1. Der Vorstand besteht aus mindestens drei ordentlichen 
-Mitgliedern: dem Vorstandsvorsitzenden, dem Schatzmeister und dem 
-Schriftführer. Des Weiteren können bis zu drei Beisitzer in den 
-Vorstand gewählt werden. Es kann auf Wunsch der 
+1. Der Vorstand besteht aus mindestens drei ordentlichen
+Mitgliedern: dem Vorstandsvorsitzenden, dem Schatzmeister und dem
+Schriftführer. Des Weiteren können bis zu drei Beisitzer in den
+Vorstand gewählt werden. Es kann auf Wunsch der
 Mitgliederversammlung auf eine Wahl der Beisitzer verzichtet werden.
 
-2. Vorstand im Sinne des §26 BGB sind der Vorstandsvorsitzender, 
-Schatzmeister sowie der Schriftführer. Diese sind einzeln 
-berechtigt, den Verein nach außen zu vertreten. Die Geschäftsordnung 
+2. Vorstand im Sinne des §26 BGB sind der Vorstandsvorsitzender,
+Schatzmeister sowie der Schriftführer. Diese sind einzeln
+berechtigt, den Verein nach außen zu vertreten. Die Geschäftsordnung
 kann hierfür Einschränkungen festlegen.
 
 3. Der Schatzmeister überwacht die Haushaltsführung und verwaltet
@@ -270,10 +269,10 @@ nächsten Mitgliederversammlung mitgeteilt werden.
 
 § 10 Auflösung des Vereins und Vermögensbindung
 
-1. Die Auflösung des Vereins muss von der Mitgliederversammlung mit 
-einer Mehrheit von drei Vierteln beschlossen werden. Die Abstimmung 
-ist nur möglich, wenn auf der Einladung zur Mitgliederversammlung 
-als einziger Tagesordnungspunkt die Auflösung des Vereins 
+1. Die Auflösung des Vereins muss von der Mitgliederversammlung mit
+einer Mehrheit von drei Vierteln beschlossen werden. Die Abstimmung
+ist nur möglich, wenn auf der Einladung zur Mitgliederversammlung
+als einziger Tagesordnungspunkt die Auflösung des Vereins
 angekündigt wurde.
 
 2. Bei Auflösung des Vereins, Aufhebung der Körperschaft oder
@@ -300,4 +299,3 @@ werden entsprechend übertragen.
 1. Schriftliche Erklärungen im Sinne dieser Satzung können auch
 elektronische Dokumente sein. Die Geschäftsordnung bestimmt
 Anforderungen, Zustellwege und Zuordnung derartiger Dokumente.
-
