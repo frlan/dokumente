@@ -2,16 +2,11 @@ Satzung des Hackspace Jena e.V.
 Fassung vom 30. November 2011
 
 
-Präambel
-
-...
-
-
 § 1 Name, Sitz, Geschäftsjahr
 
 1. Der Verein trägt den Namen "Hackspace Jena". Der Verein soll in
 das Vereinsregister beim Amtsgericht Jena eingetragen und der Name
-dann um den Zusatz "e.V." ergänzt.
+dann um den Zusatz "e.V." ergänzt werden.
 
 2. Der Verein hat seinen Sitz in Jena. Das Geschäftsjahr entspricht
 dem Kalenderjahr.
