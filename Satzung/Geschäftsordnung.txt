@@ -11,7 +11,7 @@ folgt:
 - 42€/Monat, 64€/Monat, 128€/Monat oder 256€/Monat für Fördermitglieder
 
 Der Mitgliedsbeitrag wird für mindestens einen Monat im Voraus
-entrichtet.  Einmal gezahlte Mitgliedsbeiträge werden nicht
+entrichtet. Einmal gezahlte Mitgliedsbeiträge werden nicht
 zurückerstattet.
 
 2. Voraussetzung für die ermäßigte Mitgliedschaft ist die Vorlage
@@ -20,9 +20,9 @@ Behindertenausweises, einer Arbeitslosigkeitsbescheinigung oder
 eines vergleichbaren Nachweises gegenüber dem
 Vorstand. Der entsprechende Nachweis ist jährlich neu zu erbringen.
 
-3. Jedem Mitglied steht es frei, den Verein durch einen höheren
-Mitgliedsbeitrag stärker finanziell zu unterstützen. Damit sind keinerlei
-Privilegien oder Stimmvorteile verbunden.
+3. Jedem Mitglied steht es frei, den Verein durch einen höheren 
+Mitgliedsbeitrag stärker finanziell zu unterstützen. Damit sind 
+keinerlei Privilegien oder Stimmvorteile verbunden.
 
 4. Änderungen bezüglich Mitgliedsbeitrag oder Mitgliedsart sind dem
 Vorstand schriftlich mitzuteilen und gelten mit sofortiger Wirkung.
@@ -76,7 +76,7 @@ genießt er die volle Unterstützung des Vorstands.
 Bargeldkasse. Überschüssige Bargeldsummen werden von ihm regelmäßig
 auf dem Vereinskonto abgelegt.
 
-7. Für Bareingänge stellt der Schatzmeister eine formgerechte
+7. Für Bareingänge stellt der Schatzmeister eine formgerechte 
 Quittung in doppelter Ausfertigung aus, davon eine für den Einzahler.
 
 8. Der Schatzmeister legt ein geeignetes Vermögensregister an, das
@@ -95,6 +95,7 @@ Schatzmeister eingereicht werden.
 Vermögensregister einzutragen. Nach Genehmigung durch den Vorstand hat
 der Schatzmeister ein Aufbewahrungsprotokoll anzufertigen, ein Exemplar
 für den Besorger, eins zur Dokumentation beim Schatzmeister.
+
 11. Der Schatzmeister führt die Liste der Vereinsmitglieder.
 Periodisch werden von ihm die sich ergebenden Veränderungen durch
 Zugänge und Abgänge den Vereinsmitgliedern mitgeteilt.
@@ -105,9 +106,9 @@ durch ihn eine Bilanz zu erstellen.
 
 § 6 Erstattung der Auslagen des Vorstands
 
-1. Auslagen des Vorstandes zur Verfolgung der Vereinszwecke werden
-in voller Höhe erstattet. Auf Beschluss der Mitgliederversammlung
-muss der Vorstand in einer Stellungnahme Zweck- und
+1. Auslagen des Vorstandes zur Verfolgung der Vereinszwecke werden 
+in voller Höhe erstattet. Auf Beschluss der Mitgliederversammlung 
+muss der Vorstand in einer Stellungnahme Zweck- und 
 Verhältnismäßigkeit der Ausgaben nachweisen.
 
 
