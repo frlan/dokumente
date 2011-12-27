@@ -28,60 +28,71 @@ Mitteln des Vereins.
 4. Die Mitglieder erhalten keine Gewinnanteile. Es darf keine Person 
 durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch 
 unverhältnismäßig hohe Vergütungen begünstigt werden. Bei 
-Ausscheiden oder Auflösung dürfen Vereinsmitglieder  keine Anteile 
+Ausscheiden oder Auflösung dürfen Vereinsmitglieder keine Anteile 
 des Vereinsvermögens erhalten.
 
 
 §3 Zweck des Vereines und Zweckverwirklichung
 
-2. Insbesondere im, jedoch nicht begrenzt auf den Rahmen der
-folgenden Mittel:
+1. Grundlegender Zweck des Vereins ist die Förderung der Erziehung, 
+Volks- und Berufsbildung einschließlich der Studentenhilfe und der 
+Forschung, der Kunst und Kultur auf den Gebieten der 
+Informationstechnologie, Computersicherheit, des Datenschutzes und 
+des Umgangs mit Technologie im allgemeinen. Dabei spielen die 
+Gedanken des internationaler Austauschs, der Gleichberechtigung und 
+Mitwirkung an der demokratischen Entwicklung der Gesellschaft eine 
+wichtige Rolle. 
 
-- Aufbau einer Begegnungsstätte für Veranstaltungen, Experimente,
-kommunikativen Austausch, etc.
+2. Das zu Grunde liegenden Mittel zur Verwirklichung der 
+satzungsgemäßgen Ziele ist der Aufbau und Betrieb einer 
+Begegnungsstätte für Veranstaltungen, Experimente sowie den 
+kommunikativen Austausch. Darüber hinaus unterstützt und 
+veranstaltet der Verein regelmäßige öffentliche Treffen und 
+Informationsveranstaltungen, Workshops wie auch Tagungen sowie 
+weitere Veranstaltungen in ähnliche Formen. 
 
-- regelmäßige öffentliche Treffen und Informationsveranstaltungen
+3. Der Satzungszweck wird insbesondere verwirklicht durch:
 
-- Förderung des schöpferisch-kritischen Umgangs mit Technologie
+* Veranstaltung von Vorträgen, Seminaren und Tagungen, auch und 
+insbesondere zur wissenschaftlichen Behandlung von offenen Fragen 
+und aktuellen Entwicklungen vorallem in den unter Absatz 1 
+genannten Themenbereichen
 
-- Bildung und Weiterbildung zu technischen Fragen im Rahmen der
-gesetzlichen Möglichkeiten
+* Informationsveranstaltungen zur Förderung öffentlicher 
+Auseinandersetzung mit Themen wie Datenschutz, Computersicherheit 
+oder Medienkompetenz
 
-- Förderung und Veranstaltung von Tagungen
+* Vorführung von Filmen, insb. Dokumentationen, Vortragsmitschnitten 
+und Kritiken zu Datenschutz, neuen Medien, IT-Sicherheit oder 
+technischen Entwicklungen
 
-- Öffentlichkeitsarbeit und Telepublishing in allen Medien
+* Ausstellung von Geräten von historischem oder aktuellem Interesse
 
-setzt sich der Verein ein für die Förderung von:
+* Durchführung von Projekten zur Förderung/Bildung/Erziehung der 
+Jugend unter Absatz 1 genannten Bereichen, z.B. durch angeleitete 
+Entwicklung von Software-, Hardware- oder Elektronik-Komponenten, 
+spezielle Bildungsveranstaltungen, Kooperation mit Schulen u.s.w..
 
-- Kunst und Kultur (AO §52 2.5.) in bestehenden und neuen Formen,
-wie sie durch Einflüsse der digitalen Informationsverarbeitung
-entstanden sind und entstehen, z. B. NetArt, BlinkenLights und
-andere Computerkunst.
+* Vernetzung von und Kontaktvermittlung zu bestehenden Gruppen, z.B. 
+User-Groups, Stammtische, Computerclubs, etc. 
 
-- Erziehung, Volksbildung und Studentenhilfe (AO §52 2.7) in den in
-der Präambel angesprochenen Themen, insbesondere der digitalen
-Informationsverarbeitung und deren Einfluss auf die Gesellschaft;
-durchgeführt durch Bildungsveranstaltungen, Experimentierräume und
--projekte sowie Informationsaustausch.
+* Bereitstellung von Arbeits- und Seminarräumen fuer Projektarbeit 
+im Sinne des Satzungszwecks u.a. Einrichtung eines Hardwarelabors
 
-- Internationaler Gesinnung und Völkerverständigung (AO §52 2.13.)
-durch Austausch mit ähnlichen oder gleichgesinnten Vereinen,
-Einrichtungen und Projekten.
+* Einbindung künstlerischer Arbeiten zum Bereich Computer, Technik, 
+neue Medien in das Vereinsleben insbesondere durch
 
-- Kriminalprävention (AO §52 2.20.) insbesondere im Umgang mit
-digitaler Informationsverarbeitungstechnik durch Aufklärung über
-rechtliche Grundsätze, angemessene Verhaltensweisen und
-Unterbreitung von Alternativen zu kriminellen Handlungsweisen.
+	- Ausstellung künstlerischer Arbeiten in den Vereinsräumen
 
-- Amateurfunk und Modellflug (AO §52 2.23), insbesondere den Auf- und
-Ausbau unabhängiger, freier Funknetze durch Wartung und Bereitstellung
-der nötigen Infrastruktur.
+	- Integration künstlerischer Elemente in die Einrichtung der Vereinsräume
 
-- Demokratischem Staatswesen (AO §52 2.24.) im Besonderen im
-Zusammenhang mit der Entwicklung der Gesellschaft zu einer
-Informationsgesellschaft durch Veranstaltungen und Diskussionen zu
-Themen wie Urheberrecht, Datenschutz, Netzneutralität, freie und
-offene Software, etc.
+	- Vorführung von Computerdemos, Animationsfilmen u.ä.
+
+	- Bereitstellung von Arbeitsraum/-materialien für Künstler
+
+* Förderung interdisziplinärer Arbeitsgruppen durch die 
+künstlerische Betrachtung moderner Informationstechnologien und 
+deren kreative Umsetzung in kooperativen Projekten.
 
 
 § 4 Mitgliedschaft
