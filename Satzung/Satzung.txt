@@ -47,7 +47,7 @@ eine wichtige Rolle.
 satzungsgemäßen Ziele ist der Aufbau und Betrieb einer
 Begegnungsstätte für Veranstaltungen, Experimente sowie den
 kommunikativen Austausch. Darüber hinaus unterstützt und
-veranstaltet der Verein regelmäßige öffentliche Treffen und
+veranstaltet der Verein regelmäßige, öffentliche Treffen und
 Informationsveranstaltungen, Workshops wie auch Tagungen sowie
 weitere Veranstaltungen in ähnlicher Form.
 
@@ -55,32 +55,35 @@ weitere Veranstaltungen in ähnlicher Form.
 
 * Veranstaltung von Vorträgen, Seminaren und Tagungen, auch und
 insbesondere zur wissenschaftlichen Behandlung von offenen Fragen
-und aktuellen Entwicklungen vorallem in den unter Absatz 1
+und aktuellen Entwicklungen, vorallem in den unter Absatz 1
 genannten Themenbereichen
 
-* Informationsveranstaltungen zur Förderung öffentlicher
+* Informationsveranstaltungen zur Förderung einer öffentlichen
 Auseinandersetzung mit Themen wie Datenschutz, Computersicherheit
 oder Medienkompetenz
 
-* Gemeinschaftliche Rezeption von Medieninhalten, insb.
+* Gemeinschaftliche Rezeption von Medieninhalten, insb. von
 Dokumentationen, Vortragsmitschnitten und Kritiken zu Datenschutz,
 neuen Medien, IT-Sicherheit oder technischen Entwicklungen
 
 * Ausstellung von Geräten von historischem oder aktuellem Interesse
 
 * Durchführung von Projekten zur Förderung/Bildung/Erziehung der
-Jugend unter Absatz 1 genannten Bereichen, z.B. durch angeleitete
-Entwicklung von Software-, Hardware- oder Elektronik-Komponenten,
-spezielle Bildungsveranstaltungen, Kooperation mit Schulen u.s.w..
+Jugend in den unter Absatz 1 genannten Bereichen. Zum Beispiel durch
+angeleitete Entwicklung von Software-, Hardware- oder
+Elektronik-Komponenten, spezielle Bildungsveranstaltungen,
+Kooperation mit Schulen u.s.w..
 
-* Vernetzung von und Kontaktvermittlung zu bestehenden Gruppen, z.B.
-User-Groups, Stammtische, Computerclubs, etc.
+* Vernetzung von und Kontaktvermittlung zu bestehenden Gruppen im
+Themenspektrum des Vereins. Zum Beispiel zu User-Groups,
+Stammtische, Computerclubs, etc.
 
-* Bereitstellung von Arbeits- und Seminarräumen für Projektarbeit
-im Sinne des Satzungszwecks u.a. Einrichtung eines Hardwarelabors
+* Bereitstellung von Arbeits- und Seminarräumen für Projektarbeit im
+Sinne des Satzungszwecks, durch zum Beispiele der Einrichtung eines
+Hardwarelabors
 
-* Einbindung künstlerischer Arbeiten zum Bereich Computer, Technik,
-neue Medien in das Vereinsleben insbesondere durch
+* Einbindung künstlerischer Arbeiten zum und im Bereich Computer,
+Technik, neue Medien in das Vereinsleben insbesondere durch
 
 	- Ausstellung künstlerischer Arbeiten in den Vereinsräumen
 
