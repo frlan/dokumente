@@ -39,23 +39,23 @@ Volks- und Berufsbildung einschließlich der Studentenhilfe und der
 Forschung, der Kunst und Kultur auf den Gebieten der
 Informationstechnologie, Computersicherheit, des Datenschutzes und
 des Umgangs mit Technologie im Allgemeinen. Dabei spielen die
-Gedanken des internationalen Austauschs, der Gleichberechtigung und
-die Mitwirkung an der Entwicklung der demokratischen Gesellschaft
-eine wichtige Rolle.
+Gedanken des internationalen Austauschs, der Gleichberechtigung und der
+Mitwirkung an der Entwicklung der demokratischen Gesellschaft eine
+wichtige Rolle.
 
 2. Das zu Grunde liegende Mittel zur Verwirklichung der
 satzungsgemäßen Ziele ist der Aufbau und Betrieb einer
-Begegnungsstätte für Veranstaltungen, Experimente sowie den
+Begegnungsstätte für Veranstaltungen, Experimente und
 kommunikativen Austausch. Darüber hinaus unterstützt und
 veranstaltet der Verein regelmäßige, öffentliche Treffen und
-Informationsveranstaltungen, Workshops wie auch Tagungen sowie
-weitere Veranstaltungen in ähnlicher Form.
+Informationsveranstaltungen, Workshops, Tagungen sowie
+weitere, ähnliche Veranstaltungen.
 
 3. Der Satzungszweck wird insbesondere verwirklicht durch:
 
 * Veranstaltung von Vorträgen, Seminaren und Tagungen, auch und
-insbesondere zur wissenschaftlichen Behandlung von offenen Fragen
-und aktuellen Entwicklungen, vorallem in den unter Absatz 1
+insbesondere zur wissenschaftlichen Behandlung offener Fragen
+und aktueller Entwicklungen, vor allem in den unter Absatz 1
 genannten Themenbereichen
 
 * Informationsveranstaltungen zur Förderung einer öffentlichen
@@ -68,22 +68,22 @@ neuen Medien, IT-Sicherheit oder technischen Entwicklungen
 
 * Ausstellung von Geräten von historischem oder aktuellem Interesse
 
-* Durchführung von Projekten zur Förderung/Bildung/Erziehung der
-Jugend in den unter Absatz 1 genannten Bereichen. Zum Beispiel durch
+* Durchführung von Projekten zur Förderung, Bildung und Erziehung der
+Jugend in den unter Absatz 1 genannten Bereichen. Dies kann durch
 angeleitete Entwicklung von Software-, Hardware- oder
 Elektronik-Komponenten, spezielle Bildungsveranstaltungen,
-Kooperation mit Schulen u.s.w..
+Kooperation mit Schulen usw. erfolgen.
 
 * Vernetzung von und Kontaktvermittlung zu bestehenden Gruppen im
 Themenspektrum des Vereins. Zum Beispiel zu User-Groups,
-Stammtische, Computerclubs, etc.
+Stammtischen, Computerclubs, etc.
 
 * Bereitstellung von Arbeits- und Seminarräumen für Projektarbeit im
-Sinne des Satzungszwecks, durch zum Beispiele der Einrichtung eines
+Sinne des Satzungszwecks, beispielsweise durch die Einrichtung eines
 Hardwarelabors
 
 * Einbindung künstlerischer Arbeiten zum und im Bereich Computer,
-Technik, neue Medien in das Vereinsleben insbesondere durch
+Technik, neue Medien in das Vereinsleben, insbesondere durch
 
 	- Ausstellung künstlerischer Arbeiten in den Vereinsräumen
 
@@ -91,7 +91,7 @@ Technik, neue Medien in das Vereinsleben insbesondere durch
 
 	- Vorführung von Computerdemos, Animationsfilmen u.ä.
 
-	- Bereitstellung von Arbeitsraum/-materialien für Künstler
+	- Bereitstellung von Arbeitsraum und -materialien für Künstler
 
 * Förderung interdisziplinärer Arbeitsgruppen durch die
 künstlerische Betrachtung moderner Informationstechnologien und
@@ -112,7 +112,7 @@ entsprechenden Bestätigung durch ein Vorstandsmitglied.
 
 4. Hat der Vorstand die Aufnahme abgelehnt, so kann der
 Mitgliedschaftsbewerber Einspruch zur nächsten Mitgliederversammlung
-einlegen, die dann abschließend über die Aufnahme oder Nichtaufnahme
+einlegen, die daraufhin abschließend über die Aufnahme oder Nichtaufnahme
 entscheidet.
 
 5. Die Mitgliedschaft endet durch Austrittserklärung, durch
@@ -208,7 +208,7 @@ nötige Informationen bekannt gegeben. Die Mitgliederversammlung kann
 per Beschluss die Tagesordnung verändern.
 
 10. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll
-anzufertigen, das vom Versammlungsleiter und dem Schriftführer zu
+anzufertigen, das vom Versammlungsleiter und vom Schriftführer zu
 unterzeichnen ist. Das Protokoll ist innerhalb von 14 Tagen allen
 Mitgliedern zugänglich zu machen und auf der nächsten
 Mitgliederversammlung genehmigen zu lassen.
