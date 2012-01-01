@@ -37,7 +37,7 @@ des Vereinsvermögens erhalten.
 1. Grundlegender Zweck des Vereins ist die Förderung der Erziehung,
 Volks- und Berufsbildung einschließlich der Studentenhilfe und der
 Forschung, der Kunst und Kultur auf den Gebieten der
-Informationstechnologie, Computersicherheit, des Datenschutzes und
+Informationstechnologie, der Computersicherheit, des Datenschutzes und
 des Umgangs mit Technologie im Allgemeinen. Dabei spielen die
 Gedanken des internationalen Austauschs, der Gleichberechtigung und der
 Mitwirkung an der Entwicklung der demokratischen Gesellschaft eine
@@ -46,8 +46,8 @@ wichtige Rolle.
 2. Das zu Grunde liegende Mittel zur Verwirklichung der
 satzungsgemäßen Ziele ist der Aufbau und Betrieb einer
 Begegnungsstätte für Veranstaltungen, Experimente und
-kommunikativen Austausch. Darüber hinaus unterstützt und
-veranstaltet der Verein regelmäßige, öffentliche Treffen und
+kommunikativen Austausch. Darüber hinaus veranstaltet und
+unterstützt der Verein regelmäßige, öffentliche Treffen und
 Informationsveranstaltungen, Workshops, Tagungen sowie
 weitere, ähnliche Veranstaltungen.
 
@@ -62,21 +62,21 @@ genannten Themenbereichen
 Auseinandersetzung mit Themen wie Datenschutz, Computersicherheit
 oder Medienkompetenz
 
-* Gemeinschaftliche Rezeption von Medieninhalten, insb. von
+* Gemeinschaftliche Rezeption von Medieninhalten, insbesondere von
 Dokumentationen, Vortragsmitschnitten und Kritiken zu Datenschutz,
 neuen Medien, IT-Sicherheit oder technischen Entwicklungen
 
 * Ausstellung von Geräten von historischem oder aktuellem Interesse
 
 * Durchführung von Projekten zur Förderung, Bildung und Erziehung der
-Jugend in den unter Absatz 1 genannten Bereichen. Dies kann durch
-angeleitete Entwicklung von Software-, Hardware- oder
-Elektronik-Komponenten, spezielle Bildungsveranstaltungen,
-Kooperation mit Schulen usw. erfolgen.
+Jugend in den unter Absatz 1 genannten Bereichen. Dies kann zum Beispiel
+durch angeleitete Entwicklung von Software-, Hardware- oder
+Elektronik-Komponenten, spezielle Bildungsveranstaltungen oder
+Kooperationen mit Schulen erfolgen.
 
 * Vernetzung von und Kontaktvermittlung zu bestehenden Gruppen im
-Themenspektrum des Vereins. Zum Beispiel zu User-Groups,
-Stammtischen, Computerclubs, etc.
+Themenspektrum des Vereins, wie etwa User-Groups, Stammtische,
+Computerclubs, etc.
 
 * Bereitstellung von Arbeits- und Seminarräumen für Projektarbeit im
 Sinne des Satzungszwecks, beispielsweise durch die Einrichtung eines
