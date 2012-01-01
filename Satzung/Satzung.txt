@@ -53,47 +53,47 @@ weitere, ähnliche Veranstaltungen.
 
 3. Der Satzungszweck wird insbesondere verwirklicht durch:
 
-* Veranstaltung von Vorträgen, Seminaren und Tagungen, auch und
+- Veranstaltung von Vorträgen, Seminaren und Tagungen, auch und
 insbesondere zur wissenschaftlichen Behandlung offener Fragen
 und aktueller Entwicklungen, vor allem in den unter Absatz 1
 genannten Themenbereichen
 
-* Informationsveranstaltungen zur Förderung einer öffentlichen
+- Informationsveranstaltungen zur Förderung einer öffentlichen
 Auseinandersetzung mit Themen wie Datenschutz, Computersicherheit
 oder Medienkompetenz
 
-* Gemeinschaftliche Rezeption von Medieninhalten, insbesondere von
+- Gemeinschaftliche Rezeption von Medieninhalten, insbesondere von
 Dokumentationen, Vortragsmitschnitten und Kritiken zu Datenschutz,
 neuen Medien, IT-Sicherheit oder technischen Entwicklungen
 
-* Ausstellung von Geräten von historischem oder aktuellem Interesse
+- Ausstellung von Geräten von historischem oder aktuellem Interesse
 
-* Durchführung von Projekten zur Förderung, Bildung und Erziehung der
+- Durchführung von Projekten zur Förderung, Bildung und Erziehung der
 Jugend in den unter Absatz 1 genannten Bereichen. Dies kann zum Beispiel
 durch angeleitete Entwicklung von Software-, Hardware- oder
 Elektronik-Komponenten, spezielle Bildungsveranstaltungen oder
 Kooperationen mit Schulen erfolgen.
 
-* Vernetzung von und Kontaktvermittlung zu bestehenden Gruppen im
+- Vernetzung von und Kontaktvermittlung zu bestehenden Gruppen im
 Themenspektrum des Vereins, wie etwa User-Groups, Stammtische,
 Computerclubs, etc.
 
-* Bereitstellung von Arbeits- und Seminarräumen für Projektarbeit im
+- Bereitstellung von Arbeits- und Seminarräumen für Projektarbeit im
 Sinne des Satzungszwecks, beispielsweise durch die Einrichtung eines
 Hardwarelabors
 
-* Einbindung künstlerischer Arbeiten zum und im Bereich Computer,
+- Einbindung künstlerischer Arbeiten zum und im Bereich Computer,
 Technik, neue Medien in das Vereinsleben, insbesondere durch
 
-	- Ausstellung künstlerischer Arbeiten in den Vereinsräumen
+	* Ausstellung künstlerischer Arbeiten in den Vereinsräumen
 
-	- Integration künstlerischer Elemente in die Einrichtung der Vereinsräume
+	* Integration künstlerischer Elemente in die Einrichtung der Vereinsräume
 
-	- Vorführung von Computerdemos, Animationsfilmen u.ä.
+	* Vorführung von Computerdemos, Animationsfilmen u.ä.
 
-	- Bereitstellung von Arbeitsraum und -materialien für Künstler
+	* Bereitstellung von Arbeitsraum und -materialien für Künstler
 
-* Förderung interdisziplinärer Arbeitsgruppen durch die
+- Förderung interdisziplinärer Arbeitsgruppen durch die
 künstlerische Betrachtung moderner Informationstechnologien und
 deren kreative Umsetzung in kooperativen Projekten.
 
