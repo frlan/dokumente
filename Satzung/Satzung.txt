@@ -34,68 +34,70 @@ des Vereinsvermögens erhalten.
 
 §3 Zweck des Vereines und Zweckverwirklichung
 
-1. Grundlegender Zweck des Vereins ist die Förderung der Erziehung, 
-der Volks- und Berufsbildung einschließlich der Studentenhilfe, der 
-Forschung, der Kunst und Kultur auf den Gebieten der 
-Informationstechnologie, der Computersicherheit, des Datenschutzes 
-und des Umgangs mit Technologie im Allgemeinen. Dabei spielen die 
-Gedanken des internationalen Austauschs, der Gleichberechtigung und 
-der Mitwirkung an der Entwicklung der demokratischen Gesellschaft 
-eine wichtige Rolle.
+1. Grundlegender Zweck des Vereins ist die Förderung 
+   - der Erziehung, der Volks- und der Berufsbildung einschließlich
+     der Studentenhilfe,
+   - der Forschung, der Kunst und der Kultur, und
+   - des Umgangs mit Technologie
+   auf den Themengebieten
+   - der Informationstechnologie,
+   - der Computersicherheit, und
+   - des Datenschutzes.
 
-2. Das zu Grunde liegende Mittel zur Verwirklichung der
-satzungsgemäßen Ziele ist der Aufbau und Betrieb einer
-Begegnungsstätte für Veranstaltungen, Experimente und
-kommunikativen Austausch. Darüber hinaus veranstaltet und
-unterstützt der Verein regelmäßige, öffentliche Treffen und
-Informationsveranstaltungen, Workshops, Tagungen sowie
-weitere, ähnliche Veranstaltungen.
+2. Das Handeln des Vereins ist durch die Gedanken
+   - des internationalen Austauschs,
+   - der Gleichberechtigung, und
+   - der Mitwirkung an der pluralistischen, demokratischen
+     Gesellschaft
+   bestimmt.
 
-3. Der Satzungszweck wird insbesondere verwirklicht durch:
+3. Das primäre Mittel zur Verwirklichung des Vereinszwecks ist Aufbau
+und Betrieb einer Begegnungsstätte, die die räumliche Grundlage für
+die folgenden Aktivitäten bietet.
 
-- Veranstaltung von Vorträgen, Seminaren und Tagungen, auch und
-insbesondere zur wissenschaftlichen Behandlung offener Fragen
-und aktueller Entwicklungen, vor allem in den unter Absatz 1
-genannten Themenbereichen
+4. Die sekundären Mittel zur Verwirklichung des Vereinswecks sind
 
-- Informationsveranstaltungen zur Förderung einer öffentlichen
-Auseinandersetzung mit Themen wie Datenschutz, Computersicherheit
-oder Medienkompetenz
+- Veranstaltung von Vorträgen, Seminaren und Tagungen,
 
-- Gemeinschaftliche Rezeption von Medieninhalten, insbesondere von
-Dokumentationen, Vortragsmitschnitten und Kritiken zu Datenschutz,
-neuen Medien, IT-Sicherheit oder technischen Entwicklungen
+- Informationsveranstaltungen zur Förderung der öffentlichen
+  Auseinandersetzung mit den Themengebieten des Vereins,
 
-- Ausstellung von Geräten von historischem oder aktuellem Interesse
+- gemeinschaftliche, kritische Rezeption von Medieninhalten, die der
+  Bildung auf den Themengebieten des Vereins dienen (Dokumentationen,
+  Vortragsmitschnitte, und Artikel),
+
+- Ausstellung technischer Geräte von historischem oder aktuellem
+  Interesse,
 
 - Durchführung von Projekten zur Förderung, Bildung und Erziehung der
-Jugend in den unter Absatz 1 genannten Bereichen. Dies kann zum Beispiel
-durch angeleitete Entwicklung von Software-, Hardware- oder
-Elektronik-Komponenten, spezielle Bildungsveranstaltungen oder
-Kooperationen mit Schulen erfolgen.
+  Jugend in Themenbereichen des Vereins vermittels
+  - der angeleiteten Entwicklung von Soft- und Hardwarekomponenten, 
+  - dedizierter Bildungsveranstaltungen und
+  - der Kooperationen mit Schulen,
 
-- Vernetzung von und Kontaktvermittlung zu bestehenden Gruppen im
-Themenspektrum des Vereins, wie etwa User-Groups, Stammtische,
-Computerclubs, etc.
+- Vernetzung mit lokalen und internationalen Organisationen und
+  Gruppen im Themenspektrum des Vereins durch
+  - Organisation von Austauschfahrten,
+  - gemeinsame Organisation von Vortraegen und Tagungen,
+  - Betrieb und gemeinsame Nutzung elektronischer
+    Kommunikationsinfrastruktur und
+  - Teilnahme an User-Groups und Stammtischen,
 
-- Bereitstellung von Arbeits- und Seminarräumen für Projektarbeit im
-Sinne des Satzungszwecks, beispielsweise durch die Einrichtung eines
-Hardwarelabors
+- Bereitstellung der physischen und elektronischen Infrastruktur zur
+  Durchführung von Projekten im Sinne des Satzungszwecks, insbesondere
+  die Einrichtung eines Hardwarelabors und eines revisionssicheren
+  Quellcodeverwaltungssystems,
 
 - Einbindung künstlerischer Arbeiten zum und im Bereich Computer,
-Technik, neue Medien in das Vereinsleben, insbesondere durch
+  Technik, neue Medien in das Vereinsleben, insbesondere durch
 
 	* Ausstellung künstlerischer Arbeiten in den Vereinsräumen
 
-	* Integration künstlerischer Elemente in die Einrichtung der Vereinsräume
+	* Vorführung von Computerdemos, Animationsfilmen u.ä,
 
-	* Vorführung von Computerdemos, Animationsfilmen u.ä.
-
-	* Bereitstellung von Arbeitsraum und -materialien für Künstler
-
-- Förderung interdisziplinärer Arbeitsgruppen zum Beispiel durch die
-künstlerische Betrachtung moderner Informationstechnologien und
-deren kreative Umsetzung in kooperativen Projekten.
+- Förderung interdisziplinärer Arbeitsgruppen um ethische und
+  künstlerische Dimensionen der Themengebiete des Vereins zu
+  beleuchten.
 
 
 § 4 Mitgliedschaft
