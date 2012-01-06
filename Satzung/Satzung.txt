@@ -12,73 +12,93 @@ dann um den Zusatz "e.V." ergänzt werden.
 dem Kalenderjahr.
 
 
-§ 2 Zweck, Gemeinnützigkeit
+§2 Gemeinnützigkeit
 
 1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige
-Zwecke im Sinne des Abschnitts "steuerbegünstigte Zwecke" der
-Abgabenordnung 1977 (§51 ff AO) in der jeweils gültigen Fassung; er
-dient ausschließlich und unmittelbar den in Absatz 2 angegebenen
-Zwecken. Er darf keine Gewinne erzielen, er ist selbstlos tätig und
-verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Die
-Mittel des Vereins werden ausschließlich und unmittelbar zu den
-satzungsgemäßen Zwecken verwendet. Die Mitglieder erhalten keine
-Zuwendung aus den Mitteln des Vereins. Die Mitglieder dürfen bei
-ihrem Ausscheiden oder bei Auflösung des Vereins keine Anteile des
-Vereinsvermögens erhalten. Niemand darf durch Ausgaben, die dem
-Zwecke des Vereins fremd sind, oder durch unverhältnismäßig hohe
-Vergütungen begünstigt werden.
+Zwecke im Sinne des Abschnittes "Steuerbegünstigte Zwecke" der
+Abgabenordnung.
 
-2. Insbesondere im, jedoch nicht begrenzt auf den Rahmen der
-folgenden Mittel:
+2. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie
+eigenwirtschaftliche Zwecke.
 
-- Aufbau einer Begegnungsstätte für Veranstaltungen, Experimente,
-kommunikativen Austausch, etc.
+3. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke
+verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus
+Mitteln des Vereins.
 
-- regelmäßige öffentliche Treffen und Informationsveranstaltungen
-
-- Förderung des schöpferisch-kritischen Umgangs mit Technologie
-
-- Bildung und Weiterbildung zu technischen Fragen im Rahmen der
-gesetzlichen Möglichkeiten
-
-- Förderung und Veranstaltung von Tagungen
-
-- Öffentlichkeitsarbeit und Telepublishing in allen Medien
-
-setzt sich der Verein ein für die Förderung von:
-
-- Kunst und Kultur (AO §52 2.5.) in bestehenden und neuen Formen,
-wie sie durch Einflüsse der digitalen Informationsverarbeitung
-entstanden sind und entstehen, z. B. NetArt, BlinkenLights und
-andere Computerkunst.
-
-- Erziehung, Volksbildung und Studentenhilfe (AO §52 2.7) in den in
-der Präambel angesprochenen Themen, insbesondere der digitalen
-Informationsverarbeitung und deren Einfluss auf die Gesellschaft;
-durchgeführt durch Bildungsveranstaltungen, Experimentierräume und
--projekte sowie Informationsaustausch.
-
-- Internationaler Gesinnung und Völkerverständigung (AO §52 2.13.)
-durch Austausch mit ähnlichen oder gleichgesinnten Vereinen,
-Einrichtungen und Projekten.
-
-- Kriminalprävention (AO §52 2.20.) insbesondere im Umgang mit
-digitaler Informationsverarbeitungstechnik durch Aufklärung über
-rechtliche Grundsätze, angemessene Verhaltensweisen und
-Unterbreitung von Alternativen zu kriminellen Handlungsweisen.
-
-- Amateurfunk und Modellflug (AO §52 2.23), insbesondere den Auf- und
-Ausbau unabhängiger, freier Funknetze durch Wartung und Bereitstellung
-der nötigen Infrastruktur.
-
-- Demokratischem Staatswesen (AO §52 2.24.) im Besonderen im
-Zusammenhang mit der Entwicklung der Gesellschaft zu einer
-Informationsgesellschaft durch Veranstaltungen und Diskussionen zu
-Themen wie Urheberrecht, Datenschutz, Netzneutralität, freie und
-offene Software, etc.
+4. Die Mitglieder erhalten keine Gewinnanteile. Es darf keine Person
+durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch
+unverhältnismäßig hohe Vergütungen begünstigt werden. Bei
+Ausscheiden oder Auflösung dürfen Vereinsmitglieder keine Anteile
+des Vereinsvermögens erhalten.
 
 
-§ 3 Mitgliedschaft
+§3 Zweck des Vereines und Zweckverwirklichung
+
+1. Grundlegender Zweck des Vereins ist die Förderung der Erziehung, 
+der Volks- und Berufsbildung einschließlich der Studentenhilfe, der 
+Forschung, der Kunst und Kultur auf den Gebieten der 
+Informationstechnologie, der Computersicherheit, des Datenschutzes 
+und des Umgangs mit Technologie im Allgemeinen. Dabei spielen die 
+Gedanken des internationalen Austauschs, der Gleichberechtigung und 
+der Mitwirkung an der Entwicklung der demokratischen Gesellschaft 
+eine wichtige Rolle.
+
+2. Das zu Grunde liegende Mittel zur Verwirklichung der
+satzungsgemäßen Ziele ist der Aufbau und Betrieb einer
+Begegnungsstätte für Veranstaltungen, Experimente und
+kommunikativen Austausch. Darüber hinaus veranstaltet und
+unterstützt der Verein regelmäßige, öffentliche Treffen und
+Informationsveranstaltungen, Workshops, Tagungen sowie
+weitere, ähnliche Veranstaltungen.
+
+3. Der Satzungszweck wird insbesondere verwirklicht durch:
+
+- Veranstaltung von Vorträgen, Seminaren und Tagungen, auch und
+insbesondere zur wissenschaftlichen Behandlung offener Fragen
+und aktueller Entwicklungen, vor allem in den unter Absatz 1
+genannten Themenbereichen
+
+- Informationsveranstaltungen zur Förderung einer öffentlichen
+Auseinandersetzung mit Themen wie Datenschutz, Computersicherheit
+oder Medienkompetenz
+
+- Gemeinschaftliche Rezeption von Medieninhalten, insbesondere von
+Dokumentationen, Vortragsmitschnitten und Kritiken zu Datenschutz,
+neuen Medien, IT-Sicherheit oder technischen Entwicklungen
+
+- Ausstellung von Geräten von historischem oder aktuellem Interesse
+
+- Durchführung von Projekten zur Förderung, Bildung und Erziehung der
+Jugend in den unter Absatz 1 genannten Bereichen. Dies kann zum Beispiel
+durch angeleitete Entwicklung von Software-, Hardware- oder
+Elektronik-Komponenten, spezielle Bildungsveranstaltungen oder
+Kooperationen mit Schulen erfolgen.
+
+- Vernetzung von und Kontaktvermittlung zu bestehenden Gruppen im
+Themenspektrum des Vereins, wie etwa User-Groups, Stammtische,
+Computerclubs, etc.
+
+- Bereitstellung von Arbeits- und Seminarräumen für Projektarbeit im
+Sinne des Satzungszwecks, beispielsweise durch die Einrichtung eines
+Hardwarelabors
+
+- Einbindung künstlerischer Arbeiten zum und im Bereich Computer,
+Technik, neue Medien in das Vereinsleben, insbesondere durch
+
+	* Ausstellung künstlerischer Arbeiten in den Vereinsräumen
+
+	* Integration künstlerischer Elemente in die Einrichtung der Vereinsräume
+
+	* Vorführung von Computerdemos, Animationsfilmen u.ä.
+
+	* Bereitstellung von Arbeitsraum und -materialien für Künstler
+
+- Förderung interdisziplinärer Arbeitsgruppen zum Beispiel durch die
+künstlerische Betrachtung moderner Informationstechnologien und
+deren kreative Umsetzung in kooperativen Projekten.
+
+
+§ 4 Mitgliedschaft
 
 1. Ordentliches Mitglied des Vereins kann jede natürliche Person werden,
 die seine Ziele unterstützt. Fördermitglied kann jede natürliche oder
@@ -92,7 +112,7 @@ entsprechenden Bestätigung durch ein Vorstandsmitglied.
 
 4. Hat der Vorstand die Aufnahme abgelehnt, so kann der
 Mitgliedschaftsbewerber Einspruch zur nächsten Mitgliederversammlung
-einlegen, die dann abschließend über die Aufnahme oder Nichtaufnahme
+einlegen, die daraufhin abschließend über die Aufnahme oder Nichtaufnahme
 entscheidet.
 
 5. Die Mitgliedschaft endet durch Austrittserklärung, durch
@@ -104,7 +124,7 @@ für das laufende Geschäftsjahr wird von der Geschäftsordnung geregelt.
 gegenüber dem Vorstand erklärt.
 
 
-§ 4 Ausschluss eines Mitglieds
+§ 5 Ausschluss eines Mitglieds
 
 1. Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen
 werden, wenn es das Ansehen des Vereins schädigt, es den satzungsgemäßen
@@ -118,7 +138,7 @@ Mitgliederversammlung zulässig. Bis zum Beschluss der
 Mitgliederversammlung ruht die Mitgliedschaft.
 
 
-§ 5 Rechte und Pflichten der Mitglieder
+§ 6 Rechte und Pflichten der Mitglieder
 
 1. Die ordentlichen Mitglieder sind berechtigt, die Leistungen des
 Vereins entsprechend der vorhandenen Möglichkeiten und in angemessenem
@@ -132,7 +152,7 @@ Mitglieder verpflichtet sind. Näheres regelt eine Geschäftsordnung,
 die von der Mitgliederversammlung beschlossen wird.
 
 
-§ 6 Organe des Vereins
+§ 7 Organe des Vereins
 
 1. Die Organe des Vereins sind:
 
@@ -140,7 +160,7 @@ die von der Mitgliederversammlung beschlossen wird.
 - Der Vorstand
 
 
-§ 7 Mitgliederversammlung
+§ 8 Mitgliederversammlung
 
 1. Die Mitgliederversammlung ist das oberste Beschlussorgan des
 Vereins. Ihr obliegen alle Entscheidungen, die nicht durch die
@@ -179,16 +199,16 @@ Termin. Bei von den Mitgliedern beantragten Mitgliederversammlungen
 darf der Termin nicht mehr als acht Wochen nach dem Eingang des Antrags
 beim Vorstand liegen.
 
-8. Der Vorstand kann die Einladungen auf schriftlichem Weg gemäß §11
+8. Der Vorstand kann die Einladungen auf schriftlichem Weg gemäß §12
 zustellen, muss jedoch eine Kopie auf dem Postweg zustellen, falls
-das Mitglied den Wunsch dazu schriftlich gemäß §11 angemeldet hat.
+das Mitglied den Wunsch dazu schriftlich gemäß §12 angemeldet hat.
 
 9. In der Einladung werden die Tagesordnungspunkte sowie weitere
 nötige Informationen bekannt gegeben. Die Mitgliederversammlung kann
 per Beschluss die Tagesordnung verändern.
 
 10. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll
-anzufertigen, das vom Versammlungsleiter und dem Schriftführer zu
+anzufertigen, das vom Versammlungsleiter und vom Schriftführer zu
 unterzeichnen ist. Das Protokoll ist innerhalb von 14 Tagen allen
 Mitgliedern zugänglich zu machen und auf der nächsten
 Mitgliederversammlung genehmigen zu lassen.
@@ -199,7 +219,7 @@ Beschluss einen anderen Versammlungsleiter oder Schriftführer
 bestimmen.
 
 
-§ 8 Vorstand
+§ 9 Vorstand
 
 1. Der Vorstand besteht aus mindestens drei ordentlichen
 Mitgliedern: dem Vorstandsvorsitzenden, dem Schatzmeister und dem
@@ -246,7 +266,7 @@ Stimme. Bei Abstimmungen ist eine Mehrheit von zwei Dritteln der
 abgegebenen gültigen Stimmen nötig.
 
 
-§ 9 Satzungs- und Geschäftsordnungsänderung
+§ 10 Satzungs- und Geschäftsordnungsänderung
 
 1. Über Satzungs- und Geschäftsordnungsänderungen kann in der
 Mitgliederversammlung nur abgestimmt werden, wenn auf diesen
@@ -262,7 +282,7 @@ Vorstand von sich aus vornehmen. Diese Satzungsänderungen müssen der
 nächsten Mitgliederversammlung mitgeteilt werden.
 
 
-§ 10 Auflösung des Vereins und Vermögensbindung
+§ 11 Auflösung des Vereins und Vermögensbindung
 
 1. Die Auflösung des Vereins muss von der Mitgliederversammlung mit
 einer Mehrheit von drei Vierteln beschlossen werden. Die Abstimmung
@@ -289,7 +309,7 @@ vorgenannten Absätze analog. Das Vermögen und die Güter des Vereins
 werden entsprechend übertragen.
 
 
-§ 11 Schriftform, Abstimmungsfähigkeit
+§ 12 Schriftform, Abstimmungsfähigkeit
 
 1. Schriftliche Erklärungen im Sinne dieser Satzung können auch
 elektronische Dokumente sein. Die Geschäftsordnung bestimmt
