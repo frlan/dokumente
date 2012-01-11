@@ -56,49 +56,46 @@ des Vereinsvermögens erhalten.
 Aufbau und Betrieb einer Begegnungsstätte, die eine räumliche 
 Grundlage für Aktivitäten im Sinne dieser Satzung bildet.
 
-4. Die sekundären Mittel zur Verwirklichung des Vereinswecks sind
+4. Die sekundären Mittel zur Verwirklichung des Vereinszwecks sind 
+schwerpunktmäßig:
 
-- Veranstaltung von Vorträgen, Seminaren und Tagungen,
+	- Veranstaltung von öffentlichen Vorträgen, Seminaren, Tagungen und 
+	  anderen Informationsveranstaltungen zu den Themengebieten 
+	  des Vereins
+	
+	- gemeinschaftliche, kritische Rezeption von Medieninhalten 
+	  wie Dokumentationen, Vortragsmitschnitte oder Artikel, die der 
+	  Bildung auf den Themengebieten des Vereins dienen 
+	  
+	- Ausstellung technischer Geräte von historischem oder aktuellem
+	  Interesse
 
-- Informationsveranstaltungen zur Förderung der öffentlichen
-  Auseinandersetzung mit den Themengebieten des Vereins,
+	- Durchführung von Projekten zur Förderung, Bildung und Erziehung 
+	  der Jugend in Themenbereichen des Vereins wie etwa 
+	   - der angeleiteten Entwicklung von Soft- und Hardwarekomponenten, 
+	   - dedizierter Bildungsveranstaltungen oder
+	   - Kooperationen mit Schulen,
 
-- gemeinschaftliche, kritische Rezeption von Medieninhalten, die der
-  Bildung auf den Themengebieten des Vereins dienen (Dokumentationen,
-  Vortragsmitschnitte, und Artikel),
+	- Vernetzung mit lokalen und internationalen Organisationen und
+	  Gruppen im Themenspektrum des Vereins durch
+	   - Organisation von Austauschfahrten,
+	   - gemeinsame Vorträge und Tagungen,
+	   - Betrieb und gemeinsame Nutzung von 
+	     Kommunikationsinfrastruktur und
+	   - Kooperation mit User-Groups und Nutzerstammtischen
+	
+	- Förderung von Aktivitäten zu interdisziplinären Aspekten der 
+	  Vereinsthemen
 
-- Ausstellung technischer Geräte von historischem oder aktuellem
-  Interesse,
-
-- Durchführung von Projekten zur Förderung, Bildung und Erziehung der
-  Jugend in Themenbereichen des Vereins vermittels
-  - der angeleiteten Entwicklung von Soft- und Hardwarekomponenten, 
-  - dedizierter Bildungsveranstaltungen und
-  - der Kooperationen mit Schulen,
-
-- Vernetzung mit lokalen und internationalen Organisationen und
-  Gruppen im Themenspektrum des Vereins durch
-  - Organisation von Austauschfahrten,
-  - gemeinsame Organisation von Vortraegen und Tagungen,
-  - Betrieb und gemeinsame Nutzung elektronischer
-    Kommunikationsinfrastruktur und
-  - Teilnahme an User-Groups und Stammtischen,
-
-- Bereitstellung der physischen und elektronischen Infrastruktur zur
-  Durchführung von Projekten im Sinne des Satzungszwecks, insbesondere
-  die Einrichtung eines Hardwarelabors und eines revisionssicheren
-  Quellcodeverwaltungssystems,
-
-- Einbindung künstlerischer Arbeiten zum und im Bereich Computer,
-  Technik, neue Medien in das Vereinsleben, insbesondere durch
-
-	* Ausstellung künstlerischer Arbeiten in den Vereinsräumen
-
-	* Vorführung von Computerdemos, Animationsfilmen u.ä,
-
-- Förderung interdisziplinärer Arbeitsgruppen um ethische und
-  künstlerische Dimensionen der Themengebiete des Vereins zu
-  beleuchten.
+	- Bereitstellung der physischen und elektronischen Infrastruktur zur
+	  Durchführung von Projekten im Sinne des Satzungszwecks,
+	  insbesondere die Einrichtung eines Hardwarelabors
+	
+	- Einbindung künstlerischer Arbeiten zum und im Bereich Computer,
+	  Technik, neue Medien in das Vereinsleben, insbesondere durch 
+	  Ausstellung und Vorführung künstlerischer Arbeiten in den 
+	  Vereinsräumen sowie die Integration kreativer Elemente in 
+	  deren Einrichtung. 
 
 
 § 4 Mitgliedschaft
