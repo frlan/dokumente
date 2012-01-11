@@ -1,5 +1,5 @@
 Satzung des Hackspace Jena e.V.
-Fassung vom 27. Dezember 2011
+Fassung vom 10. Januar 2012
 
 
 § 1 Name, Sitz, Geschäftsjahr
@@ -35,14 +35,15 @@ des Vereinsvermögens erhalten.
 §3 Zweck des Vereines und Zweckverwirklichung
 
 1. Grundlegender Zweck des Vereins ist die Förderung 
-   - der Erziehung, der Volks- und der Berufsbildung einschließlich
-     der Studentenhilfe,
-   - der Forschung, der Kunst und der Kultur, und
-   - des Umgangs mit Technologie
+     - der Erziehung, der Volks- und der Berufsbildung einschließlich
+       der Studentenhilfe
+     - der Forschung, der Kunst und der Kultur 
+     - des Umgangs mit Technologie sowie
+     - der öffentlichen Auseinandersetzung
    auf den Themengebieten
-   - der Informationstechnologie,
-   - der Computersicherheit, und
-   - des Datenschutzes.
+     - der Informationstechnologie
+     - der Computersicherheit und
+     - des Datenschutzes
 
 2. Das Handeln des Vereins ist durch die Gedanken
    - des internationalen Austauschs,
