@@ -35,21 +35,21 @@ des Vereinsvermögens erhalten.
 §3 Zweck des Vereines und Zweckverwirklichung
 
 1. Grundlegender Zweck des Vereins ist die Förderung 
-     - der Erziehung, der Volks- und der Berufsbildung einschließlich
-       der Studentenhilfe
-     - der Forschung, der Kunst und der Kultur 
-     - des Umgangs mit Technologie sowie
-     - der öffentlichen Auseinandersetzung
+	- der Erziehung, der Volks- und der Berufsbildung einschließlich
+	  der Studentenhilfe
+	- der Forschung, der Kunst und der Kultur 
+	- des Umgangs mit Technologie sowie
+	- der öffentlichen Auseinandersetzung
    auf den Themengebieten
-     - der Informationstechnologie
-     - der Computersicherheit und
-     - des Datenschutzes
+	- der Informationstechnologie
+	- der Computersicherheit und
+	- des Datenschutzes(.)
 
 2. Das Handeln des Vereins ist durch die Gedanken
-     - der Gleichberechtigung 
-     - des internationalen Austauschs und
-     - der Mitwirkung an der pluralistischen, demokratischen
-       Gesellschaft
+	- der Gleichberechtigung 
+	- des internationalen Austauschs und
+	- der Mitwirkung an der pluralistischen, demokratischen
+      Gesellschaft
    bestimmt.
 
 3. Das primäre Mittel zur Verwirklichung des Vereinszwecks sind 
