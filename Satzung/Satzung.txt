@@ -1,5 +1,10 @@
-Satzung des Hackspace Jena e.V.
-Fassung vom 10. Januar 2012
+\documentclass[fontsize=11pt,paper=a4,pagesize]{scrartcl}
+
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\renewcommand*{\othersectionlevelsformat}[3]{\S\,#3\autodot\enskip}
+\title{Satzung des Hackspace Jena e.V.\\Fassung vom 10. Januar 2012}
 
 
 § 1 Name, Sitz, Geschäftsjahr
@@ -34,10 +39,10 @@ des Vereinsvermögens erhalten.
 
 §3 Zweck des Vereines und Zweckverwirklichung
 
-1. Grundlegender Zweck des Vereins ist die Förderung 
+1. Grundlegender Zweck des Vereins ist die Förderung
 	- der Erziehung, der Volks- und der Berufsbildung einschließlich
 	  der Studentenhilfe
-	- der Forschung, der Kunst und der Kultur 
+	- der Forschung, der Kunst und der Kultur
 	- des Umgangs mit Technologie sowie
 	- der öffentlichen Auseinandersetzung
    auf den Themengebieten
@@ -46,33 +51,33 @@ des Vereinsvermögens erhalten.
 	- des Datenschutzes(.)
 
 2. Das Handeln des Vereins ist durch die Gedanken
-	- der Gleichberechtigung 
+	- der Gleichberechtigung
 	- des internationalen Austauschs und
 	- der Mitwirkung an der pluralistischen, demokratischen
       Gesellschaft
    bestimmt.
 
-3. Das primäre Mittel zur Verwirklichung des Vereinszwecks sind 
-Aufbau und Betrieb einer Begegnungsstätte, die eine räumliche 
+3. Das primäre Mittel zur Verwirklichung des Vereinszwecks sind
+Aufbau und Betrieb einer Begegnungsstätte, die eine räumliche
 Grundlage für Aktivitäten im Sinne dieser Satzung bildet.
 
-4. Die sekundären Mittel zur Verwirklichung des Vereinszwecks sind 
+4. Die sekundären Mittel zur Verwirklichung des Vereinszwecks sind
 schwerpunktmäßig:
 
-	- Veranstaltung von öffentlichen Vorträgen, Seminaren, Tagungen und 
-	  anderen Informationsveranstaltungen zu den Themengebieten 
+	- Veranstaltung von öffentlichen Vorträgen, Seminaren, Tagungen und
+	  anderen Informationsveranstaltungen zu den Themengebieten
 	  des Vereins
-	
-	- gemeinschaftliche, kritische Rezeption von Medieninhalten 
-	  wie Dokumentationen, Vortragsmitschnitte oder Artikel, die der 
-	  Bildung auf den Themengebieten des Vereins dienen 
-	  
+
+	- gemeinschaftliche, kritische Rezeption von Medieninhalten
+	  wie Dokumentationen, Vortragsmitschnitte oder Artikel, die der
+	  Bildung auf den Themengebieten des Vereins dienen
+
 	- Ausstellung technischer Geräte von historischem oder aktuellem
 	  Interesse
 
-	- Durchführung von Projekten zur Förderung, Bildung und Erziehung 
-	  der Jugend in Themenbereichen des Vereins wie etwa 
-	   - der angeleiteten Entwicklung von Soft- und Hardwarekomponenten, 
+	- Durchführung von Projekten zur Förderung, Bildung und Erziehung
+	  der Jugend in Themenbereichen des Vereins wie etwa
+	   - der angeleiteten Entwicklung von Soft- und Hardwarekomponenten,
 	   - dedizierter Bildungsveranstaltungen oder
 	   - Kooperationen mit Schulen,
 
@@ -80,22 +85,22 @@ schwerpunktmäßig:
 	  Gruppen im Themenspektrum des Vereins durch
 	   - Organisation von Austauschfahrten,
 	   - gemeinsame Vorträge und Tagungen,
-	   - Betrieb und gemeinsame Nutzung von 
+	   - Betrieb und gemeinsame Nutzung von
 	     Kommunikationsinfrastruktur und
 	   - Kooperation mit User-Groups und Nutzerstammtischen
-	
-	- Förderung von Aktivitäten zu interdisziplinären Aspekten der 
+
+	- Förderung von Aktivitäten zu interdisziplinären Aspekten der
 	  Vereinsthemen
 
 	- Bereitstellung der physischen und elektronischen Infrastruktur zur
 	  Durchführung von Projekten im Sinne des Satzungszwecks,
 	  insbesondere die Einrichtung eines Hardwarelabors
-	
+
 	- Einbindung künstlerischer Arbeiten zum und im Bereich Computer,
-	  Technik, neue Medien in das Vereinsleben, insbesondere durch 
-	  Ausstellung und Vorführung künstlerischer Arbeiten in den 
-	  Vereinsräumen sowie die Integration kreativer Elemente in 
-	  deren Einrichtung. 
+	  Technik, neue Medien in das Vereinsleben, insbesondere durch
+	  Ausstellung und Vorführung künstlerischer Arbeiten in den
+	  Vereinsräumen sowie die Integration kreativer Elemente in
+	  deren Einrichtung.
 
 
 § 4 Mitgliedschaft
