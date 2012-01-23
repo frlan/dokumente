@@ -115,7 +115,7 @@ Verhältnismäßigkeit der Ausgaben nachweisen.
 
 § 7 Elektronische Schriftform
 
-1. Elektronische Dokumente im Sinne von §11 der Satzung sind mit
+1. Elektronische Dokumente im Sinne von §12 der Satzung sind mit
 PGP/GPG oder mit S/MIME signierte E-Mails. Jedes Mitglied kann beim
 Vorstand einen öffentlichen Schlüssel bzw. sein Zertifikat
 hinterlegen, dessen Signatur die jeweiligen E-Mails tragen müssen.
