@@ -27,11 +27,11 @@ Die Geschäftsordnung wurde einstimmig angenommen.
 **** Wahl der Kandidaten
 Der Vorstand wird über ein Zustimmungs-Wahlsystem ermittelt.
 
-|------------------------+---------------+----------------|
-|                        | Felix Kästner | Konrad Schöbel |
-|------------------------+---------------+----------------|
-| Stimmen im 1. Wahlgang | 7             | 15             |
-|------------------------+---------------+----------------|
+|------------------------+---------------+----------------+--------------|
+|                        | Felix Kästner | Konrad Schöbel | Enthaltungen |
+|------------------------+---------------+----------------+--------------|
+| Stimmen im 1. Wahlgang | 7             | 15             | 2            |
+|------------------------+---------------+----------------+--------------|
 
 Konrad Schöbel nimmt die Wahl als Vorstandsvorsitzenden an.
 
@@ -41,7 +41,7 @@ Konrad Schöbel nimmt die Wahl als Vorstandsvorsitzenden an.
 
 **** Vorstellung des Kandidaten
 **** Wahl des Kandidaten
-19 Stimmen wählen den Kandidaten
+19 Stimmen wählen den Kandidaten, 1 Einhaltung.
 
 Frank Lanitz nimmt die Wahl an.
 *** Wahl des Schriftführer
@@ -55,11 +55,11 @@ Frank Lanitz nimmt die Wahl an.
 
 Der Vorstand wird über ein Zustimmungs-Wahlsystem ermittelt.
 
-|------------------------+------------+---------------|
-|                        | Jan Huwald | Felix Kästner |
-|------------------------+------------+---------------|
-| Stimmen im 1. Wahlgang | 13         | 11            |
-|------------------------+------------+---------------|
+|------------------------+------------+---------------+--------------|
+|                        | Jan Huwald | Felix Kästner | Enthaltungen |
+|------------------------+------------+---------------+--------------|
+| Stimmen im 1. Wahlgang | 13         | 11            | 2            |
+|------------------------+------------+---------------+--------------|
 
 Jan Huwald nimmt die Wahl als Schriftführer an.
 
@@ -71,4 +71,3 @@ Jan Huwald nimmt die Wahl als Schriftführer an.
 ** Grußworte des neuen Vorstandes
 
 ** Schlussworte
-
