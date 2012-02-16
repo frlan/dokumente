@@ -1,0 +1,73 @@
+* Gründnug des Vereins 'Hackspace Jena e.V.'
+20 Personen anwesend
+
+Versammlungsleiter: Carsten Eckart
+
+Protokollführer: Tim '0xAFFE' Schumacher
+
+Anfang: 15:20
+** Begrüßung der Anwesenden
+Carsten Echart begrüßt die Anwesenden.
+** Leitungsgremium bestimmen (Versammlungsleitung, Schriftführer)
+Die Versammlungsleitung und der Schriftführer wurde einheitlich gewählt
+** Temp. Geschäftsordnung für Versammlung abstimmen
+Punkt wurde gestrichen, weil nicht nötig.
+** Gründungswillen ausdrücken (Meinungsbild einholen)
+Der Gründungswillen wurde einstimmig von allen Anwesenden ausgedrückt.
+** Satzung abstimmen
+Die Satzung wurde einstimmig angenommen.
+** Geschäftsordnung abstimmen
+Die Geschäftsordnung wurde einstimmig angenommen.
+** Bestimmung des Vorstandes
+*** Wahl des Vorstandsvorsitzenden
+**** Vorschläge
+ - Felix Kästner
+ - Konrad Schöbel
+**** Vorstellung der Kandidaten
+**** Wahl der Kandidaten
+Der Vorstand wird über ein Zustimmungs-Wahlsystem ermittelt.
+
+|------------------------+---------------+----------------+--------------|
+|                        | Felix Kästner | Konrad Schöbel | Enthaltungen |
+|------------------------+---------------+----------------+--------------|
+| Stimmen im 1. Wahlgang | 7             | 15             | 2            |
+|------------------------+---------------+----------------+--------------|
+
+Konrad Schöbel nimmt die Wahl als Vorstandsvorsitzenden an.
+
+*** Wahl des Schatzmeisters
+**** Vorschläge
+ - Frank Lanitz
+
+**** Vorstellung des Kandidaten
+**** Wahl des Kandidaten
+19 Stimmen wählen den Kandidaten, 1 Einhaltung.
+
+Frank Lanitz nimmt die Wahl an.
+*** Wahl des Schriftführer
+**** Vorschläge
+ - Jan Huwald
+ - Felix Kästner
+
+**** Vorstellung der Kandidaten
+**** Wahl der Kandidaten
+
+
+Der Vorstand wird über ein Zustimmungs-Wahlsystem ermittelt.
+
+|------------------------+------------+---------------+--------------|
+|                        | Jan Huwald | Felix Kästner | Enthaltungen |
+|------------------------+------------+---------------+--------------|
+| Stimmen im 1. Wahlgang | 13         | 11            | 2            |
+|------------------------+------------+---------------+--------------|
+
+Jan Huwald nimmt die Wahl als Schriftführer an.
+
+*** Wahl eines/mehrer Beisitzer
+1 Person möchte einen Beisitzer wählen, mehr als eine Person möchte keinen Beisitzer wählen.
+
+** Satzung unterschreiben
+
+** Grußworte des neuen Vorstandes
+
+** Schlussworte

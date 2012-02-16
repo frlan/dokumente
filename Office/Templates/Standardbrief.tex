@@ -1,0 +1,77 @@
+\documentclass[fontsize=12pt,paper=a4,DIN]{scrlttr2}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage[utf8]{inputenc}
+
+% Setzen der Absenderadresse
+\setkomavar{fromaddress}{%
+Hackspace e.V. 
+Postfach xyz
+077xx Jena}
+\setkomavar{fromname}{Hackspace Jena e.V.}
+\setkomavar{fromemail}{kontakt@hackspace-jena.de}
+\setkomavar{place}{Jena}
+\setkomavar{signature}{Irgendein Vertreter}
+
+%KOMAscript schön machen
+\KOMAoptions{headsepline,%
+pagenumber=topright,%
+fromalign=center,%
+fromrule=on,%
+foldmarks=off,%
+backaddress=off,%
+firstfoot=off,
+locfield=wide,%
+enlargefirstpage=on,%
+parskip=half%
+}
+
+\addtokomafont{fromname}{\Large}
+\makeatletter
+\@setplength{locwidth}{.5\textwidth}
+\makeatother
+
+\setkomavar{location}{\raggedleft
+  \usekomavar*{fromemail}\usekomavar{fromemail}\\
+  \usekomavar*{fromphone}\usekomavar{fromphone}\par
+}
+
+
+\begin{document}
+
+\begin{letter}{zieladresse}
+
+\setkomavar{subject}{Some subject}
+
+\opening{Sehr geehrte Damen und Herren,}
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam 
+nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam 
+erat, sed diamvoluptua. At vero eos et accusam et justo duo dolores 
+et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est 
+Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consetetur 
+sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et 
+dolore magna aliquyam erat, sed diamvoluptua. At vero eos et accusam 
+et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+takimata sanctus est Lorem ipsum dolor sit amet.Lorem ipsum dolor 
+sit amet, consetetur sadipscing elitr, sed diam nonumyeirmod tempor 
+invidunt ut labore et dolore magna aliquyam erat, sed diamvoluptua. 
+At vero eos et accusam et justo duo dolores et ea rebum. Stet clita 
+kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit 
+amet.Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed 
+diam nonumyeirmod tempor invidunt ut labore et dolore magna aliquyam 
+erat, sed diamvoluptua. At vero eos et accusam et justo duo dolores 
+et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est 
+Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consetetur 
+sadipscing elitr, sed diam nonumyeirmod tempor invidunt ut labore et 
+dolore magna aliquyam erat, sed diamvoluptua. At vero eos et accusam 
+et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+takimata sanctus est Lorem ipsum dolor sit amet.Lorem ipsum dolor 
+sit amet, consete
+
+\closing{Mit freundlichen Grüßen}
+
+
+
+\end{letter}
+\end{document}
