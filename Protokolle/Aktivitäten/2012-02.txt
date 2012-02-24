@@ -1,0 +1,7 @@
+19.2: Chaostreff / Chaoscafe
+
+Das erste Chaostreff im Rahmen des neuen Hackspace -- sozusagen in
+alter Tradition. Beim ersten Treffen anwesend waren ca. 7 Hacker.
+Themen waren neben chaosnahen Themen unter anderen die Diskussion
+eines Ansatz zur sicheren (Re)Generierung von Passwörtern für
+verschiedene Webservices (passwdhash).
