@@ -1,0 +1,56 @@
+\documentclass[headsepline=on]{scrlttr2}
+
+\usepackage[german]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{marvosym}  %  für Eurosymbol
+
+\pagestyle{headings}
+
+\begin{document}
+
+\begin{letter}[
+		fromalign=right,
+		fromrule=aftername,
+		subject=titled,
+		foldmarks=off,
+		backaddress=off,
+		pagenumber=off,
+	]{}
+\setkomavar{fromname}{Hackspace Jena e.\,V.}
+\setkomavar{fromaddress}{%
+	Krautgasse 26\\
+	07743 Jena
+}
+\setkomavar{toname}{\$VORNAME \$NAME}
+\setkomavar{toaddress}{%
+	\$ADRESSE
+}
+\setkomavar{place}{Jena}
+\setkomavar{date}{\today}
+%\setkomavar{title}{Kaution}
+\setkomavar{subject}{Kaution}
+
+\opening{Lieber \$VORNAME \$NAME,}
+
+hiermit bedankt sich der Hackspace Jena e.\,V.\ für Deine Unterstützung und
+verpflichtet sich, den am \$DATUM von Dir auf das Vereinskonto eingezahlten
+Betrag von 333\EURcr\ ausschließlich zum Zwecke der Mietkaution für die vom
+Verein in der Krautgasse 26 angemieteten Räumlichkeiten zu verwenden sowie
+spätestens zum 15.~August 2015 zurück zu zahlen.
+
+\vspace{8ex}
+\hspace*{\fill}
+\begin{minipage}{.382\textwidth}
+	Jena, den \today
+	\bigskip\\
+	\hspace*{1em}
+	\smallskip\\
+	\begin{center}
+		\$VORSTANDSMITGLIED\\
+		(im Auftrag des Vorstands)
+	\end{center}
+\end{minipage}
+
+\end{letter}
+
+\end{document}
