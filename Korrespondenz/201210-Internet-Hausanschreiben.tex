@@ -1,0 +1,96 @@
+\documentclass[fontsize=12pt,paper=a4,DIN]{scrlttr2}
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+
+% Setzen der Absenderadresse
+\setkomavar{fromaddress}{%
+Hackspace Jena e.V.\\
+Krautgasse 26\\
+07743 Jena}
+\setkomavar{fromname}{Der Hackspace Jena e.\,V.}
+\setkomavar{fromemail}{office@hackspace-jena.de}
+\setkomavar{place}{Jena}
+\setkomavar{signature}{Irgendein Vertreter}
+
+%KOMAscript schön machen
+\KOMAoptions{headsepline,%
+pagenumber=topright,%
+fromalign=center,%
+fromrule=on,%
+foldmarks=off,%
+backaddress=off,%
+firstfoot=off,
+locfield=wide,%
+enlargefirstpage=on,%
+parskip=half%
+}
+
+\addtokomafont{fromname}{\Large}
+\makeatletter
+\@setplength{locwidth}{.5\textwidth}
+\makeatother
+
+\setkomavar{location}{\raggedleft
+  \usekomavar*{fromemail}\usekomavar{fromemail}\\
+  %\usekomavar*{fromphone}\usekomavar{fromphone}\par
+}
+
+
+\begin{document}
+
+\firstfoot{%
+\hrule
+\smallskip{}
+\parbox[t]{\linewidth}{\footnotesize
+\begin{tabular}{llll}
+  \usekomavar{fromname} & Tel.: \usekomavar{fromphone} &\textbf{Bankverbindung} & \\
+  Postfach 100 132 & & Kontonummer: 3 183 912 & Inhaber: Hackspace Jena e.V.\\
+  07701 Jena & E-Mail: \usekomavar{fromemail} &  Bankleitzahl: 830 944 95 & Ethikbank Eisenberg\\
+\end{tabular}%
+}%
+}
+
+
+\begin{letter}{Nachbarn \\ der Krautgasse 26}
+
+\setkomavar{subject}{Internet im Haus Krautgasse 26 zu Jena}
+
+\opening{Liebe Nachbarn,}
+
+Ende August sind wir, der Hackspace Jena e.\,V., im ersten Stock 
+gegenüber dem CVJM eingezogen. Aktuell stellt sich uns die Frage 
+nach einer Internetverbindung. Eine Anfrage bei 1\&1 erbrachte 
+lediglich ein Angebot über eine volumenbeschränkte 
+Mobilfunkverbindung.
+
+Wir möchten Sie fragen, ob Sie bereits über einen Internetanschluss 
+verfügen, und wenn ja, mit welcher Bandbreite und zu welchen 
+Konditionen. Von unserer Seite besteht Interesse daran, einen 
+Anschluss, eventuell auch einen neu eingerichteten, zu teilen. Über 
+eine Antwort von Ihnen würden wir uns sehr freuen, selbst wenn bei 
+Ihnen kein Interesse am Teilen eines Anschlusses besteht. Vielen 
+Dank vorab dafür.
+
+\textbf{Zum Hackspace Jena e.\,V.} 
+
+Wir sind ein Verein, der mit dem neuen "`Krautspace"' einen Raum für 
+technisch Interessierte anbietet, wo auch Informations- und 
+Weiterbildungsveranstaltungen stattfinden. Beispielsweise gab es 
+parallel zu den Studieneinführungstagen im Rahmen der 
+"`Hackerfahrschule"' Vorträge über so unterschiedliche Themen wie 
+Anonymität im Netz, Textsatz und Versionskontrollsysteme.
+
+Weitere Informationen über unseren Verein und aktuelle 
+Veranstaltungen finden Sie auf der Seite 
+\url{https://www.krautspace.de}. Beispielsweise findet dienstagabends um 
+20 Uhr regelmäßig ein offenes Treffen in unseren Räumlichkeiten 
+statt. Sie sind herzlich eingeladen, vorbeizukommen und sich 
+persönlich ein Bild unseres Vereins zu machen.
+
+\closing{Mit freundlichen Grüßen}
+
+\end{letter}
+\end{document}
