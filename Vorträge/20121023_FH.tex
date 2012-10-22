@@ -1,117 +1,196 @@
-\documentclass[]{beamer}
-\usetheme{Warsaw}
-\usecolortheme{wolverine}
+\documentclass[english,compress,handout]{beamer}
+
+%\includeonlyframes{current}
+
+\usepackage[ngerman]{babel}
 \usepackage[T1]{fontenc}
+\usepackage{graphicx}
 \usepackage[utf8]{inputenc}
 \usepackage{lmodern}
-\usepackage[ngerman]{babel}
-\title{Krautspace -- Der Hackerspace in Jena}
-\author{Frank Lanitz \\ \& \\Konrad Schöbel}
-\date{\today}
+\usepackage{url}
+
+\title{Krautspace}
+\subtitle{Der Hackerspace in Jena}
+\author[Schöbel]{Konrad \& Frank}
+\institute[Hackspace Jena]{Hackspace Jena}
+\date[23/10/2012]{Fachhochschule Jena \\ 23. Oktober 2012}
+
+\subject{Hackerspaces}
+\keywords{Hackerspaces Jena}
+
+\usetheme{Boadilla}
+\useinnertheme[shadow]{rounded}
+\useoutertheme{split}
+\usecolortheme{beetle}
+\usefonttheme{structuresmallcapsserif}
+
+\setbeamertemplate{headline}[infolines theme]
+\setbeamertemplate{footline}[default]
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{frametitle}[default][right]
+
+\setbeamercovered{dynamic}
+\AtBeginSection[]
+{
+%	\begin{frame}
+%		\tableofcontents[currentsection,hideallsubsections]
+%	\end{frame}
+}
+
 \begin{document}
-\frame{\titlepage}
+
+\begin{center}
+
 \begin{frame}
-	\begin{block}{zusammen gesetzt}
-		\centering{}
-		Hackerspace = Hacker + Space
-	\end{block}
-	\pause{}
-	\begin{block}{Hacker}
-		\begin{itemize}
-			\item Jemand, der bekannte Sachen auseinandernimmt, versteht 
-				und (krativ) neu zusammen setzt
-			\item \dots{} der Spaß an kreativem Umgang mit Technik hat.
-		\end{itemize}
-	\end{block}
-	\pause{}
-	\begin{block}{Space}
-		\begin{itemize}
-			\item Ein physikalischer Raum für Hacker
-		\end{itemize}
-	\end{block}
+	\titlepage
 \end{frame}
+
 \begin{frame}
-	\frametitle{Was ist ein Hackerspace}
-	\begin{block}{}
-		Ein Hackerspace ist \dots{} \\	
-		\dots{} ein „Infrastrukturprovider“:
-		\begin{itemize}
-			\item Raum
-			\item Strom
-			\item Internet
-			\item Kontakte
-			\item Werkzeuge und Bauteile
-			\item Essen \& Trinken	
-		\end{itemize}
-	\end{block}
+	\Large Hackerspace \quad = \quad Hacker \quad + \quad Space
 \end{frame}
+
+%------------------------------------------------------------------------------------------------------------------------------%
+\section{Was ist ein Hacker?}
+
 \begin{frame}
-	\begin{block}{In einem Hackerspace gibt es \dots{}}
+	\frametitle{Ein Hacker ist \ldots}
 	\begin{itemize}
-			\item Do-It-Yourself
-			\item Vorträge
-			\item Workshops
-			\item Diskussionen
-			\item Zocken
-			\item Parties
-		\end{itemize}
-	\end{block}
-	\begin{block}{Themen}
-		\begin{itemize}
-			\item Hardware
-			\item Software
-			\item Gesellschaft \& Technologie
-			\item Kunst
-		\end{itemize}
-	\end{block}
+		\item[\ldots]
+			ein Tüftler, der bekannte Sachen auseinandernimmt, \\
+			versteht und neu zusammen setzt. \bigskip\\
+		\item[\ldots] jemand, der Spaß an kreativem Umgang mit Technik hat.
+	\end{itemize}
 \end{frame}
+
+%------------------------------------------------------------------------------------------------------------------------------%
+\section{Was ist ein Hackerspace?}
+
+\begin{frame}
+	\frametitle{Ein Hackerspace ist \ldots}
+	\vfill
+	\includegraphics[height=.625\textheight]{media/Raumzeitlabor}
+	\vfill
+	\ldots ein physischer Raum für Hacker.\\
+	\hfill
+	\tiny{Foto: Raumzeitlabor}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Ein Hackerspace ist \ldots}
+	\ldots ein offener Raum.
+\end{frame}
+
+\begin{frame}
+	\frametitle{Ein Hackerspace ist \ldots}
+	\ldots ein "`Infrastrukturprovider"':
+	\vfill
+	\begin{itemize}
+		\item Raum
+		\item Strom
+		\item Internet
+		\item Kontakte
+		\item Werkzeuge und Bauteile
+		\item Essen \& Trinken
+	\end{itemize}
+\end{frame}
+
+\begin{frame}
+	\frametitle{In einem Hackerspace gibt es \ldots}
+	\begin{itemize}
+		\item Do-It-Yourself
+		\item Vorträge
+		\item Workshops
+		\item Diskussionen
+		\item Zocken
+		\item Parties
+	\end{itemize}
+	\pause
+	\vfill
+    Themen:
+	\vfill
+	\begin{itemize}
+		\item Hardware
+		\item Software
+		\item Gesellschaft \& Technologie
+		\item Kunst
+	\end{itemize}
+\end{frame}
+
 \begin{frame}
 	\frametitle{Veranstaltungen}
-	\begin{block}{Rückblick}
-		\begin{itemize}
-			\item Anfang Oktober: Hackerfahrschule 
-				(Tor, Linux, \LaTeX{}, git, \texttt{/bin/sh}, vi vs emacs)
-			\item DIY Kochrunden (Nudeln, Chili)
-		\end{itemize}
-	\end{block}
-	\begin{block}{Voraussschau}
-		\begin{itemize}
-			\item Regelmäßig:
-				\begin{itemize}
-					\item Jeden Dienstag offene Runde mit 0xAFFE
-					\item Jeden zweiten Donnerstag Stammtisch der \\
-						\textbf{L}inux-\textbf{U}ser-\textbf{G}roup Jena
-					\item Jeden zweiten Sonntag Chaoscafe
-				\end{itemize}
-			\item 24.10 20h: Einführung in Gentoo-Linux
-			\item 15.11 18:30: Vortrag von Matthias Kirschner (FSFE):  \\
+	\framesubtitle{Rückblick}
+	\begin{itemize}
+		\item Anfang Oktober: Hackerfahrschule 
+			\begin{itemize}
+				\item Linux
+				\item Shell
+				\item vi vs emacs
+				\item \LaTeX{}
+				\item Tor
+				\item git
+			\end{itemize}
+		\item DIY Kochrunden (Nudeln, Chili)
+	\end{itemize}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Veranstaltungen}
+	\framesubtitle{Voraussschau}
+	\begin{itemize}
+		\item regelmäßig:
+			\begin{itemize}
+				\item dienstags: offene Runde mit \texttt{0xAFFE}
+				\item jeden zweiten Donnerstag: Stammtisch der LUG Jena
+				\item jeden zweiten Sonntag: Chaoscafe
+			\end{itemize}
+		\item 24. Oktober: Einführung in Gentoo-Linux
+		\item 15. November: Vortrag von Matthias Kirschner (FSFE):  \\
+			\begin{quote}
 				\textit{Vom Aussterben bedroht: Die Universalmaschine Computer}
-		\end{itemize}	
-	\end{block}
+			\end{quote}
+		\item Deine Idee hier!
+	\end{itemize}	
 \end{frame}
+
 \begin{frame}
-	\frametitle{Location}
-	Hier können wir gefunden werden: 
-	\begin{columns}[c]
-		\column[c]{5cm}
-			\includegraphics[width=5cm]{media/oss_location.png}
-		\column[c]{5cm}
-			\includegraphics[width=5cm]{media/durchgang_zum_space.jpg}
-	\end{columns}
+	\frametitle{Ein Hackerspace \ldots}
+	\ldots lebt von seinen Mitgliedern.
 \end{frame}
+
+
+%------------------------------------------------------------------------------------------------------------------------------%
+\section{Der Jenaer Hackspace}
+
 \begin{frame}
-	\frametitle{Kontakt}
-	\begin{block}{}
-		\begin{description}
-			\item[homepage] \url{https://www.hackspace-jena.de}
-			\item[Mailingliste] \url{http://yaturl.net/0d3a}
-			\item[Jabber] \url{xmapp://hackspace@chat.lug-jena.de}
-			\item[Twitter] @HackspaceJena
-			\item[identi.ca] @HackspaceJena
-			% Wir machen keine Facebookwerbung im. Bitte sehr vorsichtig sein, 
-			% beim einkommentieren
-			% \item[facebook] \url{http://www.facebook.com/HackspaceJena}
-		\end{description}
-	\end{block}
+	\frametitle{Der Krautspace}
+	\framesubtitle{real}
+	\hspace*{\fill}
+	\includegraphics[width=5cm]{media/durchgang_zum_space.jpg}
+	\hfill
+	\includegraphics[width=5cm]{media/oss_location.png}
+	\hspace*{\fill}
+	\bigskip\\
+	Krautgasse 26
 \end{frame}
+
+\begin{frame}
+	\frametitle{Der Krautspace}
+	\framesubtitle{virtuell}
+	\begin{center}
+		\begin{tabular}{ll}
+			Homepage & \url{http://www.krautspace.de}\\
+			Mailingliste & \url{http://yaturl.net/0d3a}\\
+			Jabber & \url{xmpp://hackspace@chat.lug-jena.de}\\
+			Twitter & \url{@HackspaceJena}\\
+			identi.ca & \url{@HackspaceJena}\\
+			\\
+			& \url{www.hackerspaces.org}\\
+		\end{tabular}
+	\end{center}
+\end{frame}
+
+\end{center}
+
 \end{document}
+
+vim:  textwidth=128  nowrap  shiftwidth=4  spelllang=de  nofoldenable
