@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="base.svg">
+   sodipodi:docname="fsfe_vortrag.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -173,17 +173,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="508.11339"
-     inkscape:cy="502.42641"
+     inkscape:zoom="0.77531796"
+     inkscape:cx="400.16105"
+     inkscape:cy="474.64399"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1278"
-     inkscape:window-height="1022"
-     inkscape:window-x="1280"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
      objecttolerance="20"
      showguides="true">
     <inkscape:grid
@@ -206,7 +206,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -430,30 +430,34 @@
            height="205.71428"
            x="275.71429"
            y="180.93361" /></flowRegion><flowPara
-         id="flowPara4220"></flowPara></flowRoot>    <text
+         id="flowPara4220" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       x="356.78098"
-       y="166.6479"
+       x="355.36676"
+       y="136.94942"
        id="text4222"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4224"
-         x="356.78098"
-         y="166.6479">Vom <tspan
+         x="355.36676"
+         y="136.94942">Vom <tspan
    style="font-weight:bold;-inkscape-font-specification:Monospace Bold"
    id="tspan4232">Aussterben</tspan></tspan><tspan
          sodipodi:role="line"
-         x="356.78098"
-         y="236.6479"
-         id="tspan4226">bedroht: Die</tspan><tspan
+         x="372.21051"
+         y="206.94942"
+         id="tspan4226">bedroht: </tspan><tspan
          sodipodi:role="line"
-         x="356.78098"
-         y="306.64789"
+         x="355.36676"
+         y="276.94943"
+         id="tspan3075">Die</tspan><tspan
+         sodipodi:role="line"
+         x="355.36676"
+         y="346.94943"
          id="tspan4228">Universalmaschine</tspan><tspan
          sodipodi:role="line"
-         x="356.78098"
-         y="376.64789"
+         x="355.36676"
+         y="416.94943"
          id="tspan4230"
          style="font-weight:bold;-inkscape-font-specification:Monospace Bold">Computer</tspan></text>
     <text
@@ -477,7 +481,7 @@
          sodipodi:role="line"
          id="tspan4240"
          x="324"
-         y="790.36218">'12  19:00</tspan></text>
+         y="790.36218">'12  18:30</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;font-family:Monospace;-inkscape-font-specification:Monospace"
@@ -512,25 +516,34 @@
          sodipodi:role="line"
          id="tspan4252"
          x="19.798992"
-         y="854.37225">Veranstaltungsort (FSU Hauptgebaeude)</tspan></text>
+         y="854.37225">Raum 235 UHG (FSU Hauptgebäude)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
-       x="62.225395"
-       y="912.35504"
+       style="font-size:22.74422073px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+       x="340.06958"
+       y="915.82196"
        id="text4254"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(1.0338282,0.96727869)"><tspan
          sodipodi:role="line"
-         id="tspan4256"
-         x="62.225395"
-         y="912.35504">Auf dem Poster sollte hier Text zum Speaker und</tspan><tspan
+         x="19.018473"
+         y="915.82196"
+         id="tspan3082"
+         style="text-anchor:middle;text-align:center">Matthias Kirschner (FSFE) spricht über aktuelle </tspan><tspan
          sodipodi:role="line"
-         x="62.225395"
-         y="939.85504"
-         id="tspan4258">ein zwei motivierende Saetze stehen. Auf einem</tspan><tspan
+         x="19.018473"
+         y="944.25226"
+         id="tspan3100"
+         style="text-anchor:middle;text-align:center">Entwicklungen in der Nutzung von Computern, weg </tspan><tspan
          sodipodi:role="line"
-         x="62.225395"
-         y="967.35504"
-         id="tspan4260">Flyer kann man das auf die Rueckseite packen.</tspan></text>
+         x="19.018473"
+         y="972.6825"
+         id="tspan3108"
+         style="text-anchor:middle;text-align:center">von der universellen Maschine, hin zu einer </tspan><tspan
+         sodipodi:role="line"
+         x="19.018473"
+         y="1001.1128"
+         id="tspan3118"
+         style="text-anchor:middle;text-align:center">durch Restriktionen geprägten Verwendung.</tspan></text>
   </g>
 </svg>
