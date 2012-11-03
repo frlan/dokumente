@@ -1,0 +1,80 @@
+\documentclass[fontsize=12pt,paper=a4,DIN]{scrlttr2}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage[utf8]{inputenc}
+
+% Setzen der Absenderadresse
+\setkomavar{fromaddress}{%
+Frank Lanitz
+Mühlenstraße 9
+07745 Jena}
+\setkomavar{fromname}{Hackspace Jena e.V.}
+%\setkomavar{fromname}{Frank Lanitz}
+\setkomavar{fromemail}{office@hackspace-jena.de}
+\setkomavar{fromphone}{+49 (0)152 047 352 63}
+\setkomavar{place}{Jena}
+\setkomavar{signature}{Frank Lanitz \\ Hackspace Jena e.\,V.}
+
+%KOMAscript schön machen
+\KOMAoptions{headsepline,%
+pagenumber=topright,%
+fromalign=center,%
+fromrule=on,%
+foldmarks=off,%
+backaddress=off,%
+firstfoot=off,
+locfield=wide,%
+enlargefirstpage=on,%
+parskip=half%
+}
+
+\addtokomafont{fromname}{\Large}
+\makeatletter
+\@setplength{locwidth}{.5\textwidth}
+\makeatother
+
+\setkomavar{location}{\raggedleft
+  \usekomavar*{fromemail}\usekomavar{fromemail}\\
+  \usekomavar*{fromphone}\usekomavar{fromphone}\par
+}
+
+\date{3. November 2012}
+
+\begin{document}
+
+\begin{letter}{Finanzamt Jena \\
+z.Hd. Frau Zeidler \\
+07740 Jena}
+
+\setkomavar{subject}{Anfrage bzgl. Vorabprüfung einer Satzungsänderung}
+
+\opening{Sehr geehrte Frau Zeidler, sehr geehrte Damen und Herren,}
+
+Im Januar 2012 gründeten wir den Hackspace Jena e.\,V., einem Verein 
+der einen Raum für technisch Interessierte anbietet, in dem auch 
+Informations- und Weiterbildungsveranstaltungen stattfinden. 
+Beispielsweise gab es parallel zu den Studieneinführungstagen der 
+Friedrich-Schiller-Universität im Rahmen der »Hackerfahrschule« 
+Vorträge über unterschiedliche Themen wie Anonymität im Netz, 
+Textsatz und Versionskontrollsysteme.
+
+Um unsere Ideen noch besser umsetzen zu können, ist eines unserer 
+Ziele die Anerkennung als gemeinnützer Verein. In Vorbereitung 
+dieser wollen wir am 1.12. eine Mitgliederversammlung durchführen, 
+in der wir über eine Satzungsänderung beraten werden. So soll unter 
+Anderem über die im Anhang dieses Schreibens beigefügten Änderungen 
+beraten werden. Diese basieren auf einer Rückmeldung aus Ihrem Hause 
+zur aktuell gültigen Version vom 29.1.2012. 
+
+Um eine weitere satzungsbedingte Iteration zu vermeiden, würden wir 
+uns jetzt schon über eine Vorabprüfung, in wie weit die 
+aktualisierte Satzung prinzipiell den Anforderungen an die 
+Gemeinnützigkeit gerecht wird, freuen. 
+
+
+Vielen Dank bereits im Voraus für Ihre Bemühungen.
+
+\closing{Mit freundlichen Grüßen}
+\encl{Satzungsänderungen}
+\end{letter}
+\end{document}
