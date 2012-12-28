@@ -1,0 +1,75 @@
+\documentclass[fontsize=12pt,paper=a4,DIN]{scrlttr2}
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage[utf8]{inputenc}
+
+% Setzen der Absenderadresse
+\setkomavar{fromaddress}{%
+Frank Lanitz
+Mühlenstraße 9
+07745 Jena}
+\setkomavar{fromname}{Hackspace Jena e.V.}
+\setkomavar{fromemail}{office@hackspace-jena.de}
+\setkomavar{place}{Jena}
+\setkomavar{signature}{Frank Lanitz}
+
+%KOMAscript schön machen
+\KOMAoptions{headsepline,%
+pagenumber=topright,%
+fromalign=center,%
+fromrule=on,%
+foldmarks=off,%
+backaddress=off,%
+firstfoot=off,
+locfield=wide,%
+enlargefirstpage=on,%
+parskip=half%
+}
+
+\addtokomafont{fromname}{\Large}
+\makeatletter
+\@setplength{locwidth}{.5\textwidth}
+\makeatother
+
+\setkomavar{location}{\raggedleft
+  \usekomavar*{fromemail}\usekomavar{fromemail}\\
+  %\usekomavar*{fromphone}\usekomavar{fromphone}\par
+}
+
+
+\begin{document}
+
+\firstfoot{%
+\hrule
+\smallskip{}
+\parbox[t]{\linewidth}{\footnotesize
+\begin{tabular}{llll}
+  \usekomavar{fromname} & Tel.: \usekomavar{fromphone} &\textbf{Bankverbindung} & \\
+  Postfach 100 132 & & Kontonummer: 3 183 912 & Inhaber: Hackspace Jena e.V.\\
+  07701 Jena & E-Mail: \usekomavar{fromemail} &  Bankleitzahl: 830 944 95 & Ethikbank Eisenberg\\
+\end{tabular}%
+}%
+}
+
+
+\begin{letter}{Finanzamt Jena \\
+Vereine\\
+07740 Jena}
+
+\setkomavar{subject}{Erlangung der Gemeinnützigkeit für den Hackspace Jena e.\,V.}
+
+\opening{Sehr geehrte Damen und Herren,}
+
+Bezugnehmend auf Ihr freundliches Antwortschreiben vom 13.11.2012 
+reichen wir mit diesem Schreiben das Protokoll der am 1.12.2012 
+statt gefundenen Mitgliederversammlung, die 
+Eintragungänderungsurkunde des Notars sowie die seit dem 1.12.2012 
+gültige Satzung des Vereines zur Prüfung der Erlangung der 
+Anerkennung als gemeinnütziger Verein ein. 
+
+
+\closing{Mit freundlichen Grüßen}
+\encl{Aktuelle Satzung\\ Protokoll der Mitgliederversammlung vom 1.12.2012\\Kopie der Änderungsurkunde im Vereinsregister}
+\end{letter}
+\end{document}
