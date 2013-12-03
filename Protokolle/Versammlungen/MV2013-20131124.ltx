@@ -8,6 +8,7 @@
 
 \usepackage{minutes}
 \usepackage{eurosym}
+\usepackage{tabularx}
 
 \begin{document}
 \begin{Protokoll}{Protokoll der Mitgliederversammlung 2013 des Hackspace
@@ -215,13 +216,13 @@ Der am 24.\,11.\,2013 gewählte Vorstand setzt sich wie folgt zusammen:
 \label{sec:neuer_vorstand}
 \begin{table}[h!]
     \centering
-    \begin{tabular}{l|l|c|l|l}
+    \begin{tabularx}{\textwidth}{l|X|c|l|l}
         % Bitte Adressdaten und besonders Geburtsdaten nicht ins git pushen! 
         \textsc{Name} & \textsc{Adresse} & \textsc{Geburtstag} & \textsc{Geburtsort} & \textsc{Amt} \\ \hline
         Jens Kubieziel & & & & Vorsitzender \\
         Felix Kästner & & & & Schriftführer \\
         Martin Neß & & & & Schatzmeister
-    \end{tabular}
+    \end{tabularx}
 \end{table}
 
 \end{Protokoll}
