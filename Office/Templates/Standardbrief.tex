@@ -21,7 +21,8 @@ fromalign=center,%
 fromrule=on,%
 foldmarks=off,%
 backaddress=off,%
-firstfoot=off,
+%firstfoot=off,
+firstfoot=on,
 locfield=wide,%
 enlargefirstpage=on,%
 parskip=half%
@@ -40,14 +41,14 @@ parskip=half%
 
 \begin{document}
 
-\firstfoot{%
+\setkomavar{firstfoot}{
 \hrule
 \smallskip{}
 \parbox[t]{\linewidth}{\footnotesize
 \begin{tabular}{llll}
-  \usekomavar{fromname} & Tel.: \usekomavar{fromphone} &\textbf{Bankverbindung} & \\
-  Postfach 100 132 & & IBAN: DE55 8309 4495 0003 1839 12 & Inhaber: Hackspace Jena e.V.\\
-  07701 Jena & E-Mail: \usekomavar{fromemail} &  BIC: GENO DE F1 ETK & Ethikbank Eisenberg\\
+  \usekomavar{fromname} & \textbf{Bankverbindung} & \\
+  Postfach 100 132 & IBAN: DE55 8309 4495 0003 1839 12 & Inhaber: Hackspace Jena e.V.\\
+  07701 Jena &  BIC: GENO DE F1 ETK & Ethikbank Eisenberg\\
 \end{tabular}%
 }%
 }
