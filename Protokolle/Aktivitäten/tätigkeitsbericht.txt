@@ -1,0 +1,129 @@
+
+2012
+
+- der Vorstand hat sich um folgendes gekümmert:
+	- Vereinsgründung und Eintragung in das Vereinsregister
+	- Vereinskonto und Postfach
+	- Überarbeitung der Satzung zur Erlangung der Gemeinnützigkeit
+	- Suche nach Vereinsräumen und Anmietung der Büroräume in der Krautgasse
+	- Internetanschluss für die Vereinsräume besorgen
+	- Kurzvorstellung des Hackspace an der Fachhochschule
+	- Förderanträge bei der Intershop-Stiftung und beim Chaos Computer Club stellen
+
+- Umzug des Inventars in die neuen Räume
+- Besorgen von einrichtungsgegenständen für die neuen Vereinsräume
+- Namensfindung für den Verein
+- Türschließanlage entwerfen und in Betrieb nehmen
+- Etablieren einer kleinen und wechselden Fotoausstellung in den Vereinsräumen
+- Verlagerung der Bibliothek der Linux-User-Group in die Vereinräume
+
+\subsection{Regelmäßige Vereinsaktivitäten}
+\begin{itemize}
+	\item Hacken mit \texttt{0xAFFE} (dienstags 20 Uhr)
+	\item Chaostreffs (sonntags 16 Uhr)
+	\item Plenen (jeden zweiten Freitag im Monat 19 Uhr)
+	\item Ausrichtung der regelmäßigen Stammtisches der LUG Jena
+	\item Gemeinsames Kochen mit Frank und Felix
+		\begin{itemize}
+			\item Selbstgemachte Nudeln (mit Nudelmaschine) und
+				Tomatensoße (21. September)
+			\item Chili-Essen (19. Oktober)
+			\item Kartoffelsuppe (16. November)
+		\end{itemize}
+\end{itemize}
+
+\subsection{Vorträge \& Workshops}
+Eine Auswahl von Vorträgen und Workshops, die in den Räumen des
+Spaces bzw. mit Unterstützung durch den Verein stattgefunden haben.
+\begin{itemize}
+	\item Hacking:  Interpreter für Heidenhein, einer Steuersprache für CNC-Fräsen (Konrad, 23. Februar)
+	\item Projektvorstellung:  passwdhash (Felix, 19. Februar)
+	\item Projektvorstellung:  Wikileaks-Kabel-Parser (Konrad, 16. Februar)
+	\item Gastvortrag:  C64 (Thomas Findeisen aus der M18 in Weimar, 9. Februar)
+	\item Vortrag:  Wanderlust, ein E-Mail-Client für Emacs (Tim, 28. Februar)
+	\item Vortrag: Polyglotte Programmierung  (Jan, 27. Juni)
+	\item Workshop:  Zabbix + Postgres (Frank, 4. Juli)
+	\item Spieleabend (11. Juli)
+	\item Kurzvorstellung: moderncv, eine \LaTeX-Klasse für Lebensläufe (Frank, 15. Juli)
+	\item Workshop:  dn42 (Martin89, 1. August)
+	\item Vortrag:  Formale Begriffsanalyse (Felix, 14. August)
+	\item Vortrag:  Einführung in make (Jan, 11. September)
+	\item Vortrag:  Gentoo (Markus, 24. Oktober)
+	\item Vortrag:  Fliegen (Fortbewegung) (Oliver, 14. November)
+	\item Gastvortrag:  "`Vom Aussterben bedroht: Die Universalmaschine Computer"'
+		(15. November, Matthias Kirschner (FSFE) / Punkt \ref{sec:fsfevortrag})
+	\item GNU-Radio Workshop (Martin)
+\end{itemize}
+
+\subsection{Nerdfahrschule / Hackerfahrschule}
+\begin{itemize}
+	\item Anonym im Netz (Jens, 1. Oktober)
+	\item Open Source und Linux (Frank, 2. Oktober)
+	\item Powereditoren vi \& emacs (Martin \& Konrad, 4. Oktober)
+	\item Erste Schritte auf dem Linux-Terminal (Jan, 9. Oktober)
+	\item \LaTeX (Jörg, 10. Oktober)
+	\item Moderne Versionskontrollsysteme (Tim, 11. Oktober)
+\end{itemize}
+
+\subsection{FSFE-Vortrag: "`Vom Aussterben bedroht: Die Universalmaschine Computer"'}
+
+\subsection{Cryptoparty}
+\begin{itemize}
+	\item Einführung in Kryptografie
+	\item Festplattenverschlüsselung mittels EncryptFS, TrueCrupt und LUKS
+	\item Off-the-record-Verschlüsselung (OTR)
+	\item PGP
+\end{itemize}
+
+
+2013
+
+- für die Vereinsarbeit wurden technische Hilfsmittel angeschafft: Projektor für Vorträge, Labornetzteil für die Elektronikwerkstatt
+
+- regelmäßig fanden folgende Veranstaltungen statt:
+\begin{table}[h]
+	\begin{tabular}{l|l}
+		Name   &  Turnus \\ \hline
+		Elektronikrunde   &  jeden Montag ab 19:30 Uhr\\
+		Offene Runde am Dienstag   &  jeden Dienstag ab 20 Uhr\\
+		Spieleabend   &  jeden ungeraden Mittwoch ab 20 Uhr\\
+		Linux User Group   &  jeden geraden Donnerstag ab 19 Uhr\\
+		Freifunktreffen   &  jeden ungeraden Donnerstag ab 20 Uhr\\
+		Lockpicking   &  jeden ersten Freitag im Monat ab 19 Uhr\\
+		Plenum   &  jeden zweiten Freitag im Monat ab 19 Uhr\\
+		Kochen   &  jeden dritten Freitag im Monat ab 19 Uhr\\
+		Chaoscafe / Chaostreff   &  jeden ungeraden Sonntag ab 16 Uhr\\
+\end{tabular}
+\end{table}
+
+- besondere Veranstaltungen, von Vereinsmitgliedern durchgeführt oder organisiert:
+\begin{table}[h]
+\begin{tabular}{r|l}
+	\textbf{Datum} & \textbf{Inhalt} \\ \hline{}
+	05.12.2012 & Ikea-GRÖNÖ-Kassetten-Lampen-Hacken\\
+    25.01.2013 & Zweite Cryptoparty\\
+	09.02.2013 & Linux-Kernel-Hacking im Krautspace\\
+	22.02.2013 & Filmvorführung: "`TPB AFK"' \\
+	23.02.2013 & Free your Android Workshop\\
+	05.03.2013 & Vortrag: Linux Blockdeviceveredelung -- Einfuehrung in LVM, DM, MD und deren Kombination\\
+	20.06.2013 & Zeichnen für Hacker\\
+	22.06.2013 & Krautspace Wandertag zur Sternwarte am Forst\\
+	31.08.2013 & Workshop Compilerbau\\
+	15.10.2013 & Wie baue ich mein eigenes ARM-basierendes Platinenlayout \\
+	29.11.2013 & Lange Nacht der Wissenschaften Jena
+	\end{tabular}
+	\caption{Liste der besonderen Vorträge und Workshops}
+\end{table}
+	- LPI-Lerngruppe, mehrere Termine
+	- Teilnahme des Hackspaces beim Markt der Möglichkeiten an der FSU
+
+- der Vorstand hat sich um folgendes gekümmert:
+	- Satzungsänderung einreichen
+	- Interview mit dem Akrützel zum Krautspace
+	- Vorstellung des Hackspace bei der Stadtführung für die Erstsemester Informatik
+	- Franks Tätigkeiten?
+
+
+2014
+
+
