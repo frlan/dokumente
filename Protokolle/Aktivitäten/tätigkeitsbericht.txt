@@ -14,16 +14,32 @@
 - Besorgen von einrichtungsgegenständen für die neuen Vereinsräume
 - Namensfindung für den Verein
 - Türschließanlage entwerfen und in Betrieb nehmen
+    - alle Vereinsmitglieder können damit jederzeit die Vereinsräume betreten und benutzen
+    - die technische Umsetzung dient gleichzeitig als Anschauungsobjekt für Tätigkeiten des Vereins und Demonstration eines Hackerprojekts
+    - Anlage wird verbessert und erweitert und ist somit Gegenstand von Vorträgen und Diskussionen
 - Etablieren einer kleinen und wechselden Fotoausstellung in den Vereinsräumen
+    - betreut durch ein Vereinsmitglied, finanziert durch Spenden
 - Verlagerung der Bibliothek der Linux-User-Group in die Vereinräume
+    - die Bibliothek ist damit deutlich mehr Menschen zugänglich und wurde daher auch durch Sprenden und Leihgaben erweitert
+    - Ausleihe ist über eine Liste möglich und geschieht auf Vertrauensbasis
+    - Umfang sind ca. 1,5m an Büchern aus dem IT- und Elektronikumfeld
 
 \subsection{Regelmäßige Vereinsaktivitäten}
 \begin{itemize}
-	\item Hacken mit \texttt{0xAFFE} (dienstags 20 Uhr)
+	\item Offene Dienstagsrunde mit \texttt{0xAFFE} (dienstags 20 Uhr)
+        - Austausch über aktuelle technische Themen (Computersicherheit, Datenschutz, Informatik)
+        - oft spontane Kurzvorträge über aktuelle Forschungsinhalte (Informatik, Physik)
 	\item Chaostreffs (sonntags 16 Uhr)
+        - es werden aktuelle Ereignisse aus dem Bereich des Chaos Computer Clubs besprochen
 	\item Plenen (jeden zweiten Freitag im Monat 19 Uhr)
-	\item Ausrichtung der regelmäßigen Stammtisches der LUG Jena
-	\item Gemeinsames Kochen mit Frank und Felix
+        - Diskussion aktueller Vereinsthemen
+        - Erarbeitung von Entscheidungshilfen für den Vorstand
+	\item Ausrichtung des regelmäßigen Stammtisches der LUG Jena (jeden zweiten Donnerstag)
+        - die Linux-User-Group Jena beschäftigt sich mit Themen rund um freie Software und insbesondere GNU/Linux
+        - Erfahrungsaustausch, gegenseitigen Hilfe bei Problemen
+	\item Gemeinsames Kochen mit Frank und Felix (monatlich)
+        - Unkompliziertes Zusammentreffen zu einem weniger technischen Thema
+        - Vermittlung von kulinarischen Fähigkeiten und Kreativität in der Küche
 		\begin{itemize}
 			\item Selbstgemachte Nudeln (mit Nudelmaschine) und
 				Tomatensoße (21. September)
@@ -34,7 +50,7 @@
 
 \subsection{Vorträge \& Workshops}
 Eine Auswahl von Vorträgen und Workshops, die in den Räumen des
-Spaces bzw. mit Unterstützung durch den Verein stattgefunden haben.
+Hackspaces bzw. mit Unterstützung durch den Verein stattgefunden haben. Die Vorträge sind wie alle Vereinsveranstaltungen öffen für jeden. 
 \begin{itemize}
 	\item Hacking:  Interpreter für Heidenhein, einer Steuersprache für CNC-Fräsen (Konrad, 23. Februar)
 	\item Projektvorstellung:  passwdhash (Felix, 19. Februar)
@@ -56,6 +72,7 @@ Spaces bzw. mit Unterstützung durch den Verein stattgefunden haben.
 \end{itemize}
 
 \subsection{Nerdfahrschule / Hackerfahrschule}
+- Veranstaltungsreihe für Studienanfänger zum Start des Semesters mit dem Ziel der Vermittlung studienrelevanter Kenntnisse im IT-Bereich
 \begin{itemize}
 	\item Anonym im Netz (Jens, 1. Oktober)
 	\item Open Source und Linux (Frank, 2. Oktober)
@@ -65,15 +82,13 @@ Spaces bzw. mit Unterstützung durch den Verein stattgefunden haben.
 	\item Moderne Versionskontrollsysteme (Tim, 11. Oktober)
 \end{itemize}
 
-\subsection{FSFE-Vortrag: "`Vom Aussterben bedroht: Die Universalmaschine Computer"'}
+\subsection{FSFE-Vortrag: "`Vom Aussterben bedroht: Die Universalmaschine Computer"', 15. November}
+- in Kooperation mit der Hochschulgruppe der Piraten Jena sowie des IT-Referat des StuRa der FSU
 
-\subsection{Cryptoparty}
-\begin{itemize}
-	\item Einführung in Kryptografie
-	\item Festplattenverschlüsselung mittels EncryptFS, TrueCrupt und LUKS
-	\item Off-the-record-Verschlüsselung (OTR)
-	\item PGP
-\end{itemize}
+\subsection{Cryptoparty, 23. November}
+- Ein Abend mit Vorträgen und Workshops zu Themen der angewandten Kryptografie
+- Vermittlung von Grundkenntnissen für unerfahrene Nutzer
+- Themen: Einführung in Kryptografie; Festplattenverschlüsselung mittels EncryptFS, TrueCrupt und LUKS; Off-The-Record-Verschlüsselung (OTR); PGP / GnuPG
 
 
 2013
@@ -81,20 +96,33 @@ Spaces bzw. mit Unterstützung durch den Verein stattgefunden haben.
 - für die Vereinsarbeit wurden technische Hilfsmittel angeschafft: Projektor für Vorträge, Labornetzteil für die Elektronikwerkstatt
 
 - regelmäßig fanden folgende Veranstaltungen statt:
-\begin{table}[h]
-	\begin{tabular}{l|l}
-		Name   &  Turnus \\ \hline
-		Elektronikrunde   &  jeden Montag ab 19:30 Uhr\\
-		Offene Runde am Dienstag   &  jeden Dienstag ab 20 Uhr\\
-		Spieleabend   &  jeden ungeraden Mittwoch ab 20 Uhr\\
-		Linux User Group   &  jeden geraden Donnerstag ab 19 Uhr\\
-		Freifunktreffen   &  jeden ungeraden Donnerstag ab 20 Uhr\\
-		Lockpicking   &  jeden ersten Freitag im Monat ab 19 Uhr\\
-		Plenum   &  jeden zweiten Freitag im Monat ab 19 Uhr\\
-		Kochen   &  jeden dritten Freitag im Monat ab 19 Uhr\\
-		Chaoscafe / Chaostreff   &  jeden ungeraden Sonntag ab 16 Uhr\\
-\end{tabular}
-\end{table}
+    - Elektronikrunde, jeden Montag ab 19:30 Uhr
+        - Treffen zum Arbeiten an Elektronik- und Technikprojekten
+        - gegenseitiger Austausch und Hilfestellung
+    - Offene Runde am Dienstag, jeden Dienstag ab 20 Uhr
+        - Austausch über aktuelle technische Themen (Computersicherheit, Datenschutz, Informatik)
+        - oft spontane Kurzvorträge über aktuelle Forschungsinhalte (Informatik, Physik)
+    - Spieleabend, jeden ungeraden Mittwoch ab 20 Uhr
+        - Spielen von Brett- und Kartenspielen mit unterschiedlichen Spielkonzepten zu einem bestimmten vorher festgelegten Thema
+        - zum Teil Vorstellung selbstentwickelter Spiele
+    - Linux User Group, jeden geraden Donnerstag ab 19 Uhr
+        - die Linux-User-Group Jena beschäftigt sich mit Themen rund um freie Software und insbesondere GNU/Linux
+        - Erfahrungsaustausch, gegenseitigen Hilfe bei Problemen
+    - Freifunktreffen, jeden ungeraden Donnerstag ab 20 Uhr
+        - Treffen der Jenaer Freifunkgemeinschaft zur Besprechung der aktuellen Entwicklung (Software, Netzausbau)
+        - weitertragen des Freifunkkonzepts an Interessierte
+    - Lockpicking, jeden ersten Freitag im Monat ab 19 Uhr
+        - Erlernung des Sports Schlösser ohne den passenden Schlüssel aufzusperren
+        - kritische Auseinandersetzung mit den Sicherungsmechanismen historischer und moderner Schlösser
+    - Plenum, jeden zweiten Freitag im Monat ab 19 Uhr
+        - Diskussion aktueller Vereinsthemen
+        - Erarbeitung von Entscheidungshilfen für den Vorstand
+    - Kochen, jeden dritten Freitag im Monat ab 19 Uhr
+        - Unkompliziertes Zusammentreffen zu einem weniger technischen Thema
+        - Vermittlung von kulinarischen Fähigkeiten und Kreativität in der Küche
+        - Weißkohleintopf (21.12.2012), Soljanka (18.01.2013), Möhrensuppe (15.02.2013), Kürbissuppe (22.03.2013), Fingerfood (19.04.2013),  Eierkuchen (17.05.2013), Pellkartoffeln und Kräuterquark (21.06.2013),  Nudelsalat (19.07.2013), Tomatensuppe (16.08.2013), Tomaten-Kichererbsen-Suppe (20.09.2013), Kulajda (15.11.2013)
+    - Chaoscafe / Chaostreff, jeden ungeraden Sonntag ab 16 Uhr
+        - es werden aktuelle Ereignisse aus dem Bereich des Chaos Computer Clubs besprochen
 
 - besondere Veranstaltungen, von Vereinsmitgliedern durchgeführt oder organisiert:
 \begin{table}[h]
