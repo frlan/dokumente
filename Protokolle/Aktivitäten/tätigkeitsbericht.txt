@@ -11,16 +11,16 @@
 	- Förderanträge bei der Intershop-Stiftung und beim Chaos Computer Club stellen
 
 - Umzug des Inventars in die neuen Räume
-- Besorgen von einrichtungsgegenständen für die neuen Vereinsräume
+- Besorgen von Einrichtungsgegenständen für die neuen Vereinsräume
 - Namensfindung für den Verein
 - Türschließanlage entwerfen und in Betrieb nehmen
     - alle Vereinsmitglieder können damit jederzeit die Vereinsräume betreten und benutzen
     - die technische Umsetzung dient gleichzeitig als Anschauungsobjekt für Tätigkeiten des Vereins und Demonstration eines Hackerprojekts
     - Anlage wird verbessert und erweitert und ist somit Gegenstand von Vorträgen und Diskussionen
-- Etablieren einer kleinen und wechselden Fotoausstellung in den Vereinsräumen
+- Etablieren einer kleinen und wechselnden Fotoausstellung in den Vereinsräumen
     - betreut durch ein Vereinsmitglied, finanziert durch Spenden
-- Verlagerung der Bibliothek der Linux-User-Group in die Vereinräume
-    - die Bibliothek ist damit deutlich mehr Menschen zugänglich und wurde daher auch durch Sprenden und Leihgaben erweitert
+- Verlagerung der Bibliothek der Linux-User-Group in die Vereinsräume
+    - die Bibliothek ist damit deutlich mehr Menschen zugänglich und wurde daher auch durch Spenden und Leihgaben erweitert
     - Ausleihe ist über eine Liste möglich und geschieht auf Vertrauensbasis
     - Umfang sind ca. 1,5m an Büchern aus dem IT- und Elektronikumfeld
 
@@ -31,7 +31,7 @@
         - oft spontane Kurzvorträge über aktuelle Forschungsinhalte (Informatik, Physik)
 	\item Chaostreffs (sonntags 16 Uhr)
         - es werden aktuelle Ereignisse aus dem Bereich des Chaos Computer Clubs besprochen
-	\item Plenen (jeden zweiten Freitag im Monat 19 Uhr)
+	\item Plenum (jeden zweiten Freitag im Monat 19 Uhr)
         - Diskussion aktueller Vereinsthemen
         - Erarbeitung von Entscheidungshilfen für den Vorstand
 	\item Ausrichtung des regelmäßigen Stammtisches der LUG Jena (jeden zweiten Donnerstag)
@@ -41,7 +41,7 @@
         - Unkompliziertes Zusammentreffen zu einem weniger technischen Thema
         - Vermittlung von kulinarischen Fähigkeiten und Kreativität in der Küche
 		\begin{itemize}
-			\item Selbstgemachte Nudeln (mit Nudelmaschine) und
+			\item Selbst gemachte Nudeln (mit Nudelmaschine) und
 				Tomatensoße (21. September)
 			\item Chili-Essen (19. Oktober)
 			\item Kartoffelsuppe (16. November)
@@ -50,23 +50,23 @@
 
 \subsection{Vorträge \& Workshops}
 Eine Auswahl von Vorträgen und Workshops, die in den Räumen des
-Hackspaces bzw. mit Unterstützung durch den Verein stattgefunden haben. Die Vorträge sind wie alle Vereinsveranstaltungen öffen für jeden. 
+Hackspaces bzw. mit Unterstützung durch den Verein stattgefunden haben. Die Vorträge sind wie alle Vereinsveranstaltungen offen für jeden. 
 \begin{itemize}
-	\item Hacking:  Interpreter für Heidenhein, einer Steuersprache für CNC-Fräsen (Konrad, 23. Februar)
-	\item Projektvorstellung:  passwdhash (Felix, 19. Februar)
-	\item Projektvorstellung:  Wikileaks-Kabel-Parser (Konrad, 16. Februar)
-	\item Gastvortrag:  C64 (Thomas Findeisen aus der M18 in Weimar, 9. Februar)
-	\item Vortrag:  Wanderlust, ein E-Mail-Client für Emacs (Tim, 28. Februar)
-	\item Vortrag: Polyglotte Programmierung  (Jan, 27. Juni)
-	\item Workshop:  Zabbix + Postgres (Frank, 4. Juli)
+	\item Hacking: Interpreter für Heidenhein, einer Steuersprache für CNC-Fräsen (Konrad, 23. Februar)
+	\item Projektvorstellung: passwdhash (Felix, 19. Februar)
+	\item Projektvorstellung: Wikileaks-Kabel-Parser (Konrad, 16. Februar)
+	\item Gastvortrag: C64 (Thomas Findeisen aus der M18 in Weimar, 9. Februar)
+	\item Vortrag: Wanderlust, ein E-Mail-Client für Emacs (Tim, 28. Februar)
+	\item Vortrag: Polyglotte Programmierung (Jan, 27. Juni)
+	\item Workshop: Zabbix und Postgres (Frank, 4. Juli)
 	\item Spieleabend (11. Juli)
 	\item Kurzvorstellung: moderncv, eine \LaTeX-Klasse für Lebensläufe (Frank, 15. Juli)
-	\item Workshop:  dn42 (Martin89, 1. August)
-	\item Vortrag:  Formale Begriffsanalyse (Felix, 14. August)
-	\item Vortrag:  Einführung in make (Jan, 11. September)
-	\item Vortrag:  Gentoo (Markus, 24. Oktober)
-	\item Vortrag:  Fliegen (Fortbewegung) (Oliver, 14. November)
-	\item Gastvortrag:  "`Vom Aussterben bedroht: Die Universalmaschine Computer"'
+	\item Workshop: dn42 (Martin89, 1. August)
+	\item Vortrag: Formale Begriffsanalyse (Felix, 14. August)
+	\item Vortrag: Einführung in make (Jan, 11. September)
+	\item Vortrag: Gentoo (Markus, 24. Oktober)
+	\item Vortrag: Fliegen (Fortbewegung, hauptsächlich Gleitschirm) (Oliver, 14. November)
+	\item Gastvortrag: "`Vom Aussterben bedroht: Die Universalmaschine Computer"'
 		(15. November, Matthias Kirschner (FSFE) / Punkt \ref{sec:fsfevortrag})
 	\item GNU-Radio Workshop (Martin)
 \end{itemize}
@@ -76,7 +76,7 @@ Hackspaces bzw. mit Unterstützung durch den Verein stattgefunden haben. Die Vor
 \begin{itemize}
 	\item Anonym im Netz (Jens, 1. Oktober)
 	\item Open Source und Linux (Frank, 2. Oktober)
-	\item Powereditoren vi \& emacs (Martin \& Konrad, 4. Oktober)
+	\item Powereditoren vi und emacs (Martin \& Konrad, 4. Oktober)
 	\item Erste Schritte auf dem Linux-Terminal (Jan, 9. Oktober)
 	\item \LaTeX (Jörg, 10. Oktober)
 	\item Moderne Versionskontrollsysteme (Tim, 11. Oktober)
@@ -104,7 +104,7 @@ Hackspaces bzw. mit Unterstützung durch den Verein stattgefunden haben. Die Vor
         - oft spontane Kurzvorträge über aktuelle Forschungsinhalte (Informatik, Physik)
     - Spieleabend, jeden ungeraden Mittwoch ab 20 Uhr
         - Spielen von Brett- und Kartenspielen mit unterschiedlichen Spielkonzepten zu einem bestimmten vorher festgelegten Thema
-        - zum Teil Vorstellung selbstentwickelter Spiele
+        - zum Teil Vorstellung selbst entwickelter Spiele
     - Linux User Group, jeden geraden Donnerstag ab 19 Uhr
         - die Linux-User-Group Jena beschäftigt sich mit Themen rund um freie Software und insbesondere GNU/Linux
         - Erfahrungsaustausch, gegenseitigen Hilfe bei Problemen
@@ -112,7 +112,7 @@ Hackspaces bzw. mit Unterstützung durch den Verein stattgefunden haben. Die Vor
         - Treffen der Jenaer Freifunkgemeinschaft zur Besprechung der aktuellen Entwicklung (Software, Netzausbau)
         - weitertragen des Freifunkkonzepts an Interessierte
     - Lockpicking, jeden ersten Freitag im Monat ab 19 Uhr
-        - Erlernung des Sports Schlösser ohne den passenden Schlüssel aufzusperren
+        - Erlernen des Sports Schlösser ohne den passenden Schlüssel aufzusperren
         - kritische Auseinandersetzung mit den Sicherungsmechanismen historischer und moderner Schlösser
     - Plenum, jeden zweiten Freitag im Monat ab 19 Uhr
         - Diskussion aktueller Vereinsthemen
@@ -129,21 +129,46 @@ Hackspaces bzw. mit Unterstützung durch den Verein stattgefunden haben. Die Vor
 \begin{tabular}{r|l}
 	\textbf{Datum} & \textbf{Inhalt} \\ \hline{}
 	05.12.2012 & Ikea-GRÖNÖ-Kassetten-Lampen-Hacken\\
+        - Lampenschirme aus alten Musikkassetten basteln
     25.01.2013 & Zweite Cryptoparty\\
+        - Workshopartige Vorstellung gängiger Ano\-ny\-mi\-sie\-rungs- und Verschlüsselungssoftware (OTR, Tor, TrueCrypt)
 	09.02.2013 & Linux-Kernel-Hacking im Krautspace\\
+        - Workshop zur Erstellung und Einbindung eines Linux-Kernel Moduls
+        - gemeinsames Implementieren eines kleinen Beispiels
 	22.02.2013 & Filmvorführung: "`TPB AFK"' \\
+        - Vorführung einer Dokumentation über die Gründer des Internetportals \textit {The Piratebay} mit anschließender Diskussion
 	23.02.2013 & Free your Android Workshop\\
-	05.03.2013 & Vortrag: Linux Blockdeviceveredelung -- Einfuehrung in LVM, DM, MD und deren Kombination\\
+        - Workshop bei dem unter fachkundiger Anleitung von Erik Ahlers (FSFE) auf die Android-Telefone der Teilnehmer ein alternatives Betriebssystem installiert wurde
+        - gegenseitige Hilfestellung und Unterstützung
+        - Vermittlung von Kenntnissen um selbstständig einen solchen Workshop durchführen zu können
+	05.03.2013 & Vortrag: Linux Blockdeviceveredelung -- Einführung in LVM, DM, MD und deren Kombination\\
+        - Vortrag zum professionellen Benutzen vom Festplatten mit Linux
+        - praktische Vorführung und Beantwortung der Publikumsfragen
 	20.06.2013 & Zeichnen für Hacker\\
+        - Vorführung von Software und Hardware zum Zeichnen von Comics am Computer durch einen bekannten jenaer Comiczeichner
 	22.06.2013 & Krautspace Wandertag zur Sternwarte am Forst\\
+        - gemeinsamer Ausflug mit vorherigem Grillen und einer Führung durch die Sternwarte
+        - Betrachtung mehrere Sterne und Sternkonstellationen durch das Teleskop
 	31.08.2013 & Workshop Compilerbau\\
+        - Unter fachkundiger Anleitung haben die Teilnehmer einen Compiler für die Programmiersprache Brainfuck geschrieben
+        - eine Einführung in Brainfuck gab es am Dienstag zuvor
 	15.10.2013 & Wie baue ich mein eigenes ARM-basierendes Platinenlayout \\
+        - Vortrag zum Eigenbau eines ARM-Boards (Platinenlayout, Komponentenwahl,
+Hardwaredebugging und zugehörige Lötarbeiten)
 	29.11.2013 & Lange Nacht der Wissenschaften Jena
-	\end{tabular}
-	\caption{Liste der besonderen Vorträge und Workshops}
+        - offizielle Teilnahme des Vereins an der Langen Nacht der Wissenschaften in Jena
+        - Durchführung von Lötworkshops bei denen LED-Männchen, Alarmanlagen und Licht-Theremine gelötet wurden
+        - Demonstration einer nicht-newtonschen Flüssigkeit
+        - Vortrag zu Anonymität im Internet
+        - Demonstration exotischer Rechnerarchitekturen
+\end{tabular}
+\caption{Liste der besonderen Vorträge und Workshops}
 \end{table}
-	- LPI-Lerngruppe, mehrere Termine
+	- LPI-Lerngruppe, fünf Termine im ersten Quartal
+        - gemeinsame Vorbereitung zur Prüfungen für das LPI Level 1 Zertifikat des LPIC
+        - alle Prüfungsteilnehmer haben bestanden
 	- Teilnahme des Hackspaces beim Markt der Möglichkeiten an der FSU
+        - Präsentation des Vereins an einem eigenen Stand
 
 - der Vorstand hat sich um folgendes gekümmert:
 	- Satzungsänderung einreichen
