@@ -21,6 +21,8 @@
 \sisetup{locale = DE}
 \DeclareSIUnit{\EUR}{\text{\euro{}}}
 
+\usepackage{booktabs}
+
 \setitemize{itemsep=0pt}
 
 \title{Rechenschaftsbericht}
@@ -67,15 +69,18 @@ In diesem Zeitraum tätigte der Verein Gesamtausgaben von \SI{10873,24}{\EUR}. D
 
 In diesem Zeitraum ergibt sich ein Überschuss von \SI{1090,97}{\EUR}.
 
-Eine Übersicht der Konten:
 \begin{table}[h!]
+  \centering{}
 	\begin{tabular}{l|r|r|r}
-	\textbf{Konto} & \textbf{Kontostand 16.11.2013} & \textbf{Kontostand 09.11.2014} \\ \hline
+          \toprule
+	\textbf{Konto} & \textbf{Kontostand 16.11.2013} & \textbf{Kontostand 09.11.2014} \\
+          \midrule
 	Barkasse & \SI{216,22}{\EUR} & \SI{701,03}{\EUR} \\
 	Reparier-Café Barkasse & -- & \SI{171,36}{\EUR} \\
 	Kautionskonto & \SI{1663,15}{\EUR} & \SI{1666,22}{\EUR} \\
 	Girokonto & \SI{3319,68}{\EUR} & \SI{3472,95}{\EUR}
 	\end{tabular}
+\caption{Übersicht der Konten}
 \end{table}
 
 \subsection{Ideeller Bereich}
@@ -111,7 +116,8 @@ In diesem Bereich ergab sich wenig Aktivität, lediglich eine Tellerspende für 
 \begin{table}[h]
 	\centering
 	\begin{tabular}{l|r|r|r}
-	\textbf{Projekt} & \textbf{Eingegangen im Zeitraum} & \textbf{Verwendet} & \textbf{Verfügbar} \\ \hline
+          \toprule
+	\textbf{Projekt} & \textbf{Eingegangen im Zeitraum} & \textbf{Verwendet} & \textbf{Verfügbar} \\ \midrule
 	Theremin & \SI{0}{\EUR} & \SI{0}{\EUR} & \SI{95}{EUR} \\
 	Freifunk & \SI{7,50}{\EUR} & \SI{0}{\EUR} & \SI{7,50}{\EUR} \\
 	\end{tabular}
@@ -153,8 +159,10 @@ einzelnen Veranstaltungen haben sich freiwillige aus dem Verein
 gefunden, die sich um die Organisation kümmern.
 
 \begin{table}[h]
+  \centering{}
 	\begin{tabular}{l|l}
-		Name & Turnus \\ \hline
+          \toprule
+		Name & Turnus \\ \midrule
 		Elektronikrunde & jeden Montag ab 19:30 Uhr\\
 		Offene Runde am Dienstag & jeden Dienstag ab 20 Uhr\\
 		Sprechstunde Informationssicherheit & jeden ersten Dienstag im Monat ab 20 Uhr, seit Oktober 2014\\ 
@@ -282,8 +290,9 @@ Etwas später ist das Reparier-Café ein offizieller Teil des Vereins geworden.
 \subsection{Vorträge und Workshops}
 
 \begin{table}[h]
-\begin{tabular}{r|l}
-	\textbf{Datum} & \textbf{Inhalt} \\ \hline{}
+  \centering{}
+  \begin{tabular}{r|l}
+	\textbf{Datum} & \textbf{Inhalt} \\ \midrule
 	29.11.2013 & Lange Nacht der Wissenschaften Jena \\
 	12.01.2014 & Python-Workshop mit Markus \\
 	14.01.2014 & Cryptoparty beim Fanprojekt Jena \\
