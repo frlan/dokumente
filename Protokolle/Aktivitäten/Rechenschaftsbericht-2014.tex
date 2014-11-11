@@ -1,8 +1,9 @@
 \documentclass[ngerman]{scrartcl}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+\usepackage{lmodern}
 
-\usepackage{color}
+\usepackage{xcolor}
 \usepackage{hyperref}
 \definecolor{darkblue}{rgb}{0,0,.5}
 
@@ -11,7 +12,7 @@
 	urlcolor=darkblue}
 
 \usepackage[ngerman]{babel}
-\usepackage{enumitem}
+%\usepackage{enumitem}
 \usepackage{marvosym}
 
 % Euro
@@ -25,7 +26,10 @@
 \usepackage{booktabs}
 \usepackage{tabularx}
 
-\setitemize{itemsep=0pt}
+\usepackage{fixltx2e}
+\usepackage[final,babel]{microtype} % Verbesserung der Typographie
+\usepackage{paralist}
+%\setitemize{itemsep=0pt}
 
 \title{Rechenschaftsbericht}
 \subtitle{Hackspace Jena e.\,V.}
@@ -89,12 +93,12 @@ In diesem Zeitraum ergibt sich ein Überschuss von \SI{1090,97}{\EUR}.
 \label{sec:ideeller_bereich}
 
 Im ideellen Bereich gab es in diesem Zeitraum folgende Einnahmen:
-\begin{itemize}
+\begin{compactitem}
 \item Mitgliedsbeiträge in Höhe von \SI{6991}{\EUR}
 \item \SI{487,28}{\EUR} Spenden (davon \SI{223,86}{\EUR} bei Veranstaltungen des Reparier-Cafés eingenommen)
 \item \SI{148,46}{\EUR} Gutschrift aus der Betriebskostenabrechnung 
 \item \SI{3,07}{\EUR} Zinsen.
-\end{itemize}
+\end{compactitem}
 Insgesamt sind das \SI{7629,82}{\EUR}.
 
 Die Ausgaben in diesem Zeitraum für Miete, Internet sowie die Abschläge für Nebenkosten betragen \SI{7799,92}{\EUR}.
@@ -102,7 +106,7 @@ Dieser Betrag berücksichtigt nicht die Gutschrift aus der Betriebskostenabrechn
 Da die Abrechnungen für Nebenkosten und Strom noch nicht vorliegen, weicht dieser Betrag ggf. von den tatsächlichen Kosten ab.
 
 Für Kontoführungsgebühren, Rundfunkbeträge, Versicherung und Notar wurden in diesem Zeitraum \SI{290,37}{\EUR} ausgegeben.
-Für sonstige Sachen wurden \SI{506,63}{\EUR} ausgegeben. Dies sind zum Teil Ausstattungsgegenstände und Verbrauchsmaterialien wie Reinigungsmittel, Müllbeutel usw. und zum anderen Anschaffungen z.\,B. für das Elektroniklabor. Eine Aufstellung über die Anschaffungen für das Elektroniklabor befindet sich im Abschnitt~\ref{sec:anschaffungen}.
+Für sonstige Sachen wurden \SI{506,63}{\EUR} ausgegeben. Dies sind zum Teil Ausstattungsgegenstände und Verbrauchsmaterialien wie Reinigungsmittel, Müllbeutel usw. und zum anderen Anschaffungen z.\,B. für das Elektroniklabor. Eine Aufstellung über die Anschaffungen für das Elektroniklabor befindet sich im \autoref{sec:anschaffungen}.
 
 \subsection{Zweckbetrieb}
 \label{sec:Zweckbetrieb}
@@ -118,7 +122,7 @@ Mit Beachtung der lagernden und bereits bezahlten Waren und der Prepaid-Zettel k
 \subsection{Zweckgebundene Spenden}
 \label{sec:zweckgebundene_spenden}
 
-Wir besitzen zweckgebundene Spenden für Projekte. Eine Aufstellung befindet sich in Tabelle~\ref{table:spenden}.
+Wir besitzen zweckgebundene Spenden für Projekte. Eine Aufstellung befindet sich in \autoref{table:spenden}.
 In diesem Bereich ergab sich wenig Aktivität, lediglich eine Tellerspende für das Freifunkprojekt von \SI{7,50}{\EUR} ging ein. Darüber hinaus stehen noch \SI{95}{\EUR} für das Projekt Theremin bereit.
 
 \begin{table}[h]
@@ -273,12 +277,12 @@ Tiefkühlpizza allein und das muss er auch irgendwoher erlernen.
 Aus diesem Grund wurde durch Felix und weitere Mitglieder jeweils am 3. Freitag
 im Monat eine gemeinsame Kochrunde in den Vereinsräumen organisiert.
 
-\begin{itemize}
+\begin{compactitem}
     \item Käse-Lauch-Suppe (21.02.2014)
     \item Kürbissuppe (15.08.2014)
     \item Pfannkuchen (21.03.2014)
     \item Grüner Bohneneintopf (01.08.2014)
-\end{itemize}
+\end{compactitem}
 
 Der Verein unterstützte die Veranstaltungen durch Bereitstellung der
 Infrastruktur (Raum, Herd, Töpfe etc.). Die benötigten Zutaten wurden
@@ -323,17 +327,17 @@ Sspäter ist das Reparier-Café ein offizieller Teil des Vereins geworden. Jewei
 
 \subsubsection{Cryptoparty beim Fanprojekt Jena}
 
-Da die Teilnehmer kaum eigene Rechner mitgebracht haben wandelte sich die
-Cryptoparty zu einem Vortrag in dem wir Thunderbird mit Enigmail ausgestattet
-haben, ein wenig über XMPP geredet sowie über ein paar Verhaltensregel in
-sozialen Netzwerken gesprochen haben. Es war eine lockere und freie
-Veranstaltung. Bei der Q\&A-Session kamen noch Fragen zu Tor und verwandte
+Da die Teilnehmer kaum eigene Rechner mitgebracht haben, wandelte sich die
+Cryptoparty zu einem Vortrag, in dem wir Thunderbird mit Enigmail ausgestattet
+haben, ein wenig über XMPP geredet sowie über ein paar Verhaltensregeln in
+sozialen Netzwerken besprochen haben. Es war eine lockere und freie
+Veranstaltung. Bei der Q\&A-Session kamen noch Fragen zu Tor und verwandten
 Themen.
 
 \subsubsection{Festplatten-Crypto Workshop}
 
 Die Teilnehmer des Workshops haben mit Hilfe von Tim, Markus und Felix
-verschlüsselte Sicherungskopien ihrer Daten angelegt und danach die Fetplatten
+verschlüsselte Sicherungskopien ihrer Daten angelegt und danach die Festplatten
 ihrer Laptops verschlüsselt. Während des Workshops wurden zusammen mit den
 Teilnehmern Probleme gelöst und Fragen zu Sicherheit und Best Practices
 beantwortet. 
@@ -347,7 +351,7 @@ beantwortet.
 
 Jens hat sich mit Folgendem beschäftigt:
 
-\begin{itemize}
+\begin{compactitem}
 	\item Einreichen von Protokoll und Satzungsänderung der letzten Mitgliederversammlung beim Notar
     \item Vorstandstreffen bzw. Abstimmung im Vorstand per E-Mail
     \item Bearbeitung der Vereinspost
@@ -364,14 +368,14 @@ Jens hat sich mit Folgendem beschäftigt:
 	\item vergebliche Fotoaktion "Mein Lieblingshack"
     \item Mitverfassen dieses Rechenschaftsberichtes
     \item inhaltliche Vorbereitung der Mitgliederversmmlung
-\end{itemize}
+\end{compactitem}
 
 \subsection{Felix}
 
 Felix hat sich in seiner Funktion als Vorstandsmitglied mit Folgendem 
 beschäftigt:
 
-\begin{itemize}
+\begin{compactitem}
     \item Gesprächsleitung bei Plenen und anderen Veranstaltungen
     \item Erstellung und Überarbeitung von Plenumsprotokollen
     \item Schreiben von Einladungen für Plenum, Mitgliederversammlung und 
@@ -381,21 +385,21 @@ beschäftigt:
         elektronische Kommunikationswege
     \item Mitverfassen dieses Rechenschaftsberichtes
     \item Organisation der Teilnahme des Vereins am Markt der Möglichkeiten an der FSU
-\end{itemize}
+\end{compactitem}
 
 Als Vereinsmitglied hat er sich hiermit beschäftigt: 
 
-\begin{itemize}
-    \item Unterstützung bei einigen Veranstaltungen (z.B. Kochrunden)
+\begin{compactitem}
+    \item Unterstützung bei einigen Veranstaltungen (z.\,B. Kochrunden)
     \item Überarbeitung und Dokumentation des Schließsystems
     \item Etablierung der "`Sprechstunde Informationssicherheit"'
-\end{itemize}
+\end{compactitem}
 
 \subsection{Martin}
 Martin hat sich in seiner Funktion als Schatzmeister und Vorstandsmitglied mit Folgendem beschäftigt:
-\begin{itemize}
+\begin{compactitem}
 	\item Finanzverwaltung
-	\begin{itemize}
+	\begin{compactitem}
 		\item Buchführung
 		\item Rechnungen bezahlen
 		\item Unterlagen abheften
@@ -404,21 +408,21 @@ Martin hat sich in seiner Funktion als Schatzmeister und Vorstandsmitglied mit F
 		\item Zuwendungsbescheinigungen erstellt
 		\item Besuch beim Steuerberater
 		\item Steuererklärung erstellt
-	\end{itemize}
+	\end{compactitem}
 	\item Mitgliederverwaltung
-	\begin{itemize}
-		\item Mitglieder durch Email begrüßt/verabschiedet
-		\item Mitglieder erinnert ihre Beiträge zu Zahlen
-	\end{itemize}
+	\begin{compactitem}
+		\item Mitglieder durch E-Mail begrüßt/verabschiedet
+		\item Mitglieder erinnert, ihre Beiträge zu zahlen
+	\end{compactitem}
 	\item Bar mit Getränken und Süßigkeiten:
-	\begin{itemize}
+	\begin{compactitem}
 		\item Planung der Warenbeschaffung
 		\item Warenwälzung
 		\item Getränkebestellung bei Heiko Wackernagel
-		\item Einkäufe u\.a.\ bei Globus
+		\item Einkäufe u.\,a. bei Globus
 		\item Preisabstimmung
 		\item Abrechnung
-	\end{itemize}
+	\end{compactitem}
 	\item Änderung des Eintrags beim Vereinsregister, Besuch beim Notar
 	\item Kontakt mit der Bank, Berechtigung für Kontozugriff einholen
 	\item Ankündigung von Veranstaltungen auf der Mailingliste
@@ -430,16 +434,16 @@ Martin hat sich in seiner Funktion als Schatzmeister und Vorstandsmitglied mit F
 	\item Besuch einiger Plenen von Verein und Reparier-Café
 	\item Mitbetreuung des Servers
 	\item Stand betreut auf dem Markt der Möglichkeiten
-\end{itemize}
+\end{compactitem}
 
 Als Vereinsmitglied hat Martin sich mit folgenden beschäftigt: 
-\begin{itemize}
+\begin{compactitem}
 	\item Betreuung des Spieleabends
 	\item Anbindung an das dn42 (dezentrales Community Netzwerk)
 	\item Administration des (Kabel-)Netzwerks im Krautspace
 	\item Mitbetreuung des Servers
 	\item Entwicklung, Umsetzung und Anbindung der Status-Ampel
-\end{itemize}
+\end{compactitem}
 
 \section{Ausblick und Herausforderungen}
 
@@ -447,8 +451,8 @@ Als Vereinsmitglied hat Martin sich mit folgenden beschäftigt:
 \label{sec:ausblick:finanzen}
 
 \subsubsection{Wahrung der Gemeinnützigkeit}
-Um den Status der Gemeinnützigkeit in 3~Jahren wieder zu erhalten ist eine korrekte Mittelverwendung nach Satzung und Abgabenordnung erforderlich.
-Auch sollte dies in ausreichenden Maß dokumentiert werden um später die Erklärung für das Finanzamt erstellen zu können.
+Um den Status der Gemeinnützigkeit in 3~Jahren wieder zu erhalten, ist eine korrekte Mittelverwendung nach Satzung und Abgabenordnung erforderlich.
+Auch sollte dies in ausreichenden Maß dokumentiert werden, um später die Erklärung für das Finanzamt erstellen zu können.
 
 \subsubsection{Auslösung Kautionsdarlehen}
 \label{sec:katrionsdarlehen}
@@ -462,7 +466,7 @@ Abhilfen können mehr beitragszahlende Mitglieder schaffen.
 Wir sollten ca.\,50~Mitglieder anstreben aber auch daran arbeiten den Mitgliederschwund durch neue Mitglieder zu auszugleichen.
 
 \subsection{Außenwerbung}
-Uns erreichen regelmäßig Leute die froh sind den Verein jetzt zu kennen und bedauern, dass sie von uns nicht schon zeitiger gehört haben.
+Uns erreichen regelmäßig Leute, die froh sind den Verein jetzt zu kennen und bedauern, dass sie von uns nicht schon zeitiger gehört haben.
 Daher sollten wir an unserem Bekanntheitsgrad arbeiten, auch im Hinblick auf die Mitgliederentwicklung und steigende Besucherzahlen im Krautspace.
 
 \end{document}
