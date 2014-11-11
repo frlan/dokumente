@@ -20,7 +20,7 @@
 
 % Einheiten und Zahlen korrekt setzen
 \usepackage{siunitx}
-\sisetup{locale = DE}
+\sisetup{locale = DE, detect-all}
 \DeclareSIUnit{\EUR}{\text{\euro{}}}
 
 \usepackage{booktabs}
@@ -66,30 +66,31 @@ Daraus ergibt sich auch, dass die nächste Erklärung spätestens 2017 für die 
 
 \section{Mitgliederenwicklung}
 
-Aktuell, d.\,h. zum 9.\,November~2014, hat der Verein 39~Mitglieder. Am 24.\,November~2013 waren es 33~Mitglieder.
+Aktuell, d.\,h. zum Stichtag am  9.\,November~2014, hat der Verein 39~Mitglieder. Am 24.\,November~2013 waren es 33~Mitglieder.
 In diesem Zeitraum von einem Jahr haben wir 9~Mitglieder begrüßt und 3~Mitglieder verabschiedet. Die ausgeschiedenen Mitglieder gaben an aus Jena wegzuziehen.
 Somit ergibt sich ein Mitgliederzuwachs von 6~Mitgliedern.
 
 \section{Finanzen}
 
-Im Zeitraum vom 16.\,November~2013 bis 9.\,November~2014 erhielt der Verein Einnahmen von \SI{7629,82}{\EUR} im ideellen Bereich und \SI{4334,39}{\EUR} im Bereich des Zweckbetriebs.
-Gesamt sind dies Einnahmen in Höhe von \SI{11964,21}{\EUR}.
+Im Zeitraum vom 16.\,November~2013 bis 9.\,November~2014 erhielt der Verein Einnahmen von \num{7629,82}~\euro{} im ideellen Bereich und \num{4334,39}~\euro{} im Bereich des Zweckbetriebs.
+Gesamt sind dies Einnahmen in Höhe von \num{11964,21}~\euro{}.
 
 
-In diesem Zeitraum tätigte der Verein Gesamtausgaben von \SI{10873,24}{\EUR}. Davon sind \SI{8596,92}{\EUR} dem ideellen Bereich und \SI{2276,32}{\EUR}  dem Zweckbetrieb zuzuordnen.
+In diesem Zeitraum tätigte der Verein Gesamtausgaben von \num{10873,24}~\euro{}. Davon sind \num{8596,92}~\euro{} dem ideellen Bereich und \num{2276,32}~\euro{}  dem Zweckbetrieb zuzuordnen.
 
-In diesem Zeitraum ergibt sich ein Überschuss von \SI{1090,97}{\EUR}.
+In diesem Zeitraum ergibt sich ein Überschuss von \num{1090,97}~\euro{}.
 
 \begin{table}[h!]
   \centering{}
-	\begin{tabular}{l|r|r|r}
+	\begin{tabular}{l|r|r}
           \toprule
-	\textbf{Konto} & \textbf{Kontostand 16.11.2013} & \textbf{Kontostand 09.11.2014} \\
+	\textsc{Konto} & \textsc{Kontostand} & \textsc{Kontostand}\\
+                        & \textsc{am 16.\,11.\,2013} &  \textsc{am 09.\,11.\,2014} \\
           \midrule
-	Barkasse & \SI{216,22}{\EUR} & \SI{701,03}{\EUR} \\
-	Reparier-Café Barkasse & -- & \SI{171,36}{\EUR} \\
-	Kautionskonto & \SI{1663,15}{\EUR} & \SI{1666,22}{\EUR} \\
-	Girokonto & \SI{3319,68}{\EUR} & \SI{3472,95}{\EUR}
+	Barkasse & \num{216,22}~\euro{} & \num{701,03}~\euro{} \\
+	Reparier-Café Barkasse & -- & \num{171,36}~\euro{} \\
+	Kautionskonto & \num{1663,15}~\euro{} & \num{1666,22}~\euro{} \\
+	Girokonto & \num{3319,68}~\euro{} & \num{3472,95}~\euro{}\\ \bottomrule
 	\end{tabular}
 \caption{Übersicht der Konten}
 \end{table}
@@ -99,44 +100,45 @@ In diesem Zeitraum ergibt sich ein Überschuss von \SI{1090,97}{\EUR}.
 
 Im ideellen Bereich gab es in diesem Zeitraum folgende Einnahmen:
 \begin{compactitem}
-\item Mitgliedsbeiträge in Höhe von \SI{6991}{\EUR}
-\item \SI{487,28}{\EUR} Spenden (davon \SI{223,86}{\EUR} bei Veranstaltungen des Reparier-Cafés eingenommen)
-\item \SI{148,46}{\EUR} Gutschrift aus der Betriebskostenabrechnung 
-\item \SI{3,07}{\EUR} Zinsen.
+\item Mitgliedsbeiträge in Höhe von \num{6991}~\euro{}
+\item \num{487,28}~\euro{} Spenden (davon \num{223,86}~\euro{} bei Veranstaltungen des Reparier-Cafés eingenommen)
+\item \num{148,46}~\euro{} Gutschrift aus der Betriebskostenabrechnung 
+\item \num{3,07}~\euro{} Zinsen.
 \end{compactitem}
-Insgesamt sind das \SI{7629,82}{\EUR}.
+Insgesamt sind das \num{7629,82}~\euro{}.
 
-Die Ausgaben in diesem Zeitraum für Miete, Internet sowie die Abschläge für Nebenkosten betragen \SI{7799,92}{\EUR}.
-Dieser Betrag berücksichtigt nicht die Gutschrift aus der Betriebskostenabrechnung, da der Abrechnungszeitraum vor dem 16.\,November~2013 liegt.
+Die Ausgaben in diesem Zeitraum für Miete, Internet sowie die Abschläge für Nebenkosten betragen \num{7799,92}~\euro{}.
+Dieser Betrag berücksichtigt \emph{nicht} die Gutschrift aus der Betriebskostenabrechnung. Denn der Abrechnungszeitraum liegt vor dem 16.\,November~2013.
 Da die Abrechnungen für Nebenkosten und Strom noch nicht vorliegen, weicht dieser Betrag ggf. von den tatsächlichen Kosten ab.
 
-Für Kontoführungsgebühren, Rundfunkbeträge, Versicherung und Notar wurden in diesem Zeitraum \SI{290,37}{\EUR} ausgegeben.
-Für sonstige Sachen wurden \SI{506,63}{\EUR} ausgegeben. Dies sind zum Teil Ausstattungsgegenstände und Verbrauchsmaterialien wie Reinigungsmittel, Müllbeutel usw. und zum anderen Anschaffungen z.\,B. für das Elektroniklabor. Eine Aufstellung über die Anschaffungen für das Elektroniklabor befindet sich im \autoref{sec:anschaffungen}.
+Für Kontoführungsgebühren, Rundfunkbeträge, Versicherung und Notar wurden in diesem Zeitraum \num{290,37}~\euro{} ausgegeben.
+Für sonstige Sachen wurden \num{506,63}~\euro{} ausgegeben. Dies sind zum Teil Ausstattungsgegenstände und Verbrauchsmaterialien wie Reinigungsmittel, Müllbeutel usw. und zum anderen Anschaffungen z.\,B. für das Elektroniklabor. Eine Aufstellung über die Anschaffungen für das Elektroniklabor befindet sich im \autoref{sec:anschaffungen}.
 
 \subsection{Zweckbetrieb}
 \label{sec:Zweckbetrieb}
 Im Krautspace gibt es weiterhin die Möglichkeit, Getränke und Süßigkeiten zu erwerben.
 Dies zählten wir früher als wirtschaftlichen Geschäftsbetrieb. Eine Auskunft des Steuerberaters ergab, dass es sich um einen Zweckbetrieb handelt.
 
-Aus den Verkäufen  von Getränken und Süßigkeiten ergaben sich Einnahmen von \SI{4066,30}{\EUR}, wobei für \SI{1914,85}{\EUR} Waren eingekauft worden.
-Damit ergibt sich ein Überschuss von \SI{2151,45}{\EUR}, der für Finanzierungen im ideellen Bereich verwendet werden kann.
+Aus den Verkäufen  von Getränken und Süßigkeiten ergaben sich Einnahmen von \num{4066,30}~\euro{}, wobei für \num{1914,85}~\euro{} Waren eingekauft worden.
+Damit ergibt sich ein Überschuss von \num{2151,45}~\euro{}, der für Finanzierungen im ideellen Bereich verwendet werden kann.
 
-Im Vergleich zum letzten Bericht sind die Einnahmen um ca.\,\SI{340}{\EUR} gesunken, aber der Überschuss um ca.\,\SI{20}{\EUR} gestiegen.
+Im Vergleich zum letzten Bericht sind die Einnahmen um ca.\,\num{340}~\euro{} gesunken, aber der Überschuss um ca.\,\num{20}~\euro{} gestiegen.
 Mit Beachtung der lagernden und bereits bezahlten Waren und der Prepaid-Zettel kann man abschätzen, dass der Überschuss gleichbleibend ist.
 
 \subsection{Zweckgebundene Spenden}
 \label{sec:zweckgebundene_spenden}
 
 Wir besitzen zweckgebundene Spenden für Projekte. Eine Aufstellung befindet sich in \autoref{table:spenden}.
-In diesem Bereich ergab sich wenig Aktivität, lediglich eine Tellerspende für das Freifunkprojekt von \SI{7,50}{\EUR} ging ein. Darüber hinaus stehen noch \SI{95}{\EUR} für das Projekt Theremin bereit.
+In diesem Bereich ergab sich wenig Aktivität, lediglich eine Tellerspende für das Freifunkprojekt von \num{7,50}~\euro{} ging ein. Darüber hinaus stehen noch \num{95}~\euro{} für das Projekt Theremin bereit.
 
 \begin{table}[h]
 	\centering
 	\begin{tabular}{l|r|r|r}
           \toprule
-	\textbf{Projekt} & \textbf{Eingegangen im Zeitraum} & \textbf{Verwendet} & \textbf{Verfügbar} \\ \midrule
-	Theremin & \SI{0}{\EUR} & \SI{0}{\EUR} & \SI{95}{EUR} \\
-	Freifunk & \SI{7,50}{\EUR} & \SI{0}{\EUR} & \SI{7,50}{\EUR} \\
+	\textsc{Projekt} & \textsc{Eingegangen im Zeitraum} & \textsc{Verwendet} & \textsc{Verfügbar} \\ \midrule
+	Theremin & \num{0}~\euro{} & \num{0}~\euro{} & \num{95}{EUR} \\
+	Freifunk & \num{7,50}~\euro{} & \num{0}~\euro{} & \num{7,50}~\euro{} \\
+\bottomrule
 	\end{tabular}
 	\caption{Sachgebundene Spenden für Projekte}
 	\label{table:spenden}
@@ -144,12 +146,12 @@ In diesem Bereich ergab sich wenig Aktivität, lediglich eine Tellerspende für 
 
 \section{Anschaffungen}
 \label{sec:anschaffungen}
-Um den Besuchern des Krautspaces mit ihren Gerätschaften und der steigenden Anzahl an Gerätschaften in den Vereinsräumen ausreichend Steckdosen bieten zu können, wurden Steckdosenleisten (z.\,T. mit Schalter zum praktischen Abschalten und Stromsparen) und Verlängerungskabel für \SI{40,06}{\EUR} angeschafft.
+Um den Besuchern des Krautspaces mit ihren Gerätschaften und der steigenden Anzahl an Gerätschaften in den Vereinsräumen ausreichend Steckdosen bieten zu können, wurden Steckdosenleisten (z.\,T. mit Schalter zum praktischen Abschalten und Stromsparen) und Verlängerungskabel für \num{40,06}~\euro{} angeschafft.
 
-Für den Kauf von Werkzeugen wie Lötstation, Tastköpfe und Zangen haben wir \SI{233,65}{\EUR} ausgegeben.
+Für den Kauf von Werkzeugen wie Lötstation, Tastköpfe und Zangen haben wir \num{233,65}~\euro{} ausgegeben.
 Die Anschaffungen stehen im Elektroniklabor zur Verwendung bereit.
 
-Für die Veranstaltungen des Reparier-Cafés wurden Nähutensilien für \SI{52,50}{\EUR} eingekauft.
+Für die Veranstaltungen des Reparier-Cafés wurden Nähutensilien für \num{52,50}~\euro{} eingekauft.
 
 \section{Leihgaben und Sachspenden}
 
@@ -179,7 +181,7 @@ gefunden, die sich um die Organisation kümmern.
   \centering{}
 	\begin{tabularx}{\textwidth}{l|X}
           \toprule
-		Name & Turnus \\ \midrule
+		\textsc{Name} & \textsc{Turnus} \\ \midrule
 		Elektronikrunde & jeden Montag ab 19:30 Uhr\\
 		Offene Runde am Dienstag & jeden Dienstag ab 20 Uhr\\
 		Sprechstunde Informationssicherheit & jeden ersten Dienstag im Monat ab 20 Uhr, seit Oktober 2014\\ 
@@ -193,7 +195,9 @@ gefunden, die sich um die Organisation kümmern.
 		Thuringiafurs Stammtisch & jeden dritten Samstag im Monat ab 14 Uhr\\
 		Chaoscafe / Chaostreff & jeden ungeraden Sonntag ab 16 Uhr, beendet seit März 2014\\
 		Reparier-Café & monatlich seit Juli 2014\\
+\bottomrule
 \end{tabularx}
+\caption{Regelmäßige Aktivitäten}
 \end{table}
 
 \subsubsection{Elektronikrunde}
@@ -309,23 +313,24 @@ Sspäter ist das Reparier-Café ein offizieller Teil des Vereins geworden. Jewei
   \centering{}
   \begin{tabularx}{\textwidth}{l|X}
 	\textbf{Datum} & \textbf{Inhalt} \\ \midrule
-	29.11.2013 & Lange Nacht der Wissenschaften Jena \\
-	12.01.2014 & Python-Workshop mit Markus \\
-	14.01.2014 & Cryptoparty beim Fanprojekt Jena \\
-	05.02.2014 & Einführung in Haskell mit Jan \\
-	10.02.2014 & Vortrag Spannungsversorgung mit Hannes \\
-	15.02.2014 & Festplatten-Crypto Workshop \\
-	16.02.2014 & Lötworkshop für Kinder \\
-	04.03.2014 & Vortrag zu DNSSEC mit Lutz Donnerhacke \\
-	24.03.2014 & Einführung 3D-Drucker \\
-	01.04.2014 & Vortrag "`Wieviel Astronomie steckt in einer Flasche Bier"' von Florian Freistetter \\
-	08.04.2014 & Vortrag zum community Netzwerk dn42 von Martin \\
-	10.03.2014 & Vortrag Spannungsversorgung Teil 2 mit Hannes \\
-	11.03.2014 & Vortrag zu Planetarien von Severin \\
-	18.03.2014 & Groovy-Workshop mit Oli \\
-	29.03.2014 & Thementag "`Technik und Internet"' im Rahmen der Jugendweihe-Vorbereitung \\
-	12.05.2014 & Einführung in die Programmiersprache julia durch mk \\
-	25.09.2014 & Python-Workshop Teil 2 mit Markus \\
+	29.\,11.\,2013 & Lange Nacht der Wissenschaften Jena \\
+	12.\,01.\,2014 & Python-Workshop mit Markus \\
+	14.\,01.\,2014 & Cryptoparty beim Fanprojekt Jena \\
+	05.\,02.\,2014 & Einführung in Haskell mit Jan \\
+	10.\,02.\,2014 & Vortrag Spannungsversorgung mit Hannes \\
+	15.\,02.\,2014 & Festplatten-Crypto Workshop \\
+	16.\,02.\,2014 & Lötworkshop für Kinder \\
+	04.\,03.\,2014 & Vortrag zu DNSSEC mit Lutz Donnerhacke \\
+	24.\,03.\,2014 & Einführung 3D-Drucker \\
+	01.\,04.\,2014 & Vortrag "`Wieviel Astronomie steckt in einer Flasche Bier"' von Florian Freistetter \\
+	08.\,04.\,2014 & Vortrag zum community Netzwerk dn42 von Martin \\
+	10.\,03.\,2014 & Vortrag Spannungsversorgung Teil 2 mit Hannes \\
+	11.\,03.\,2014 & Vortrag zu Planetarien von Severin \\
+	18.\,03.\,2014 & Groovy-Workshop mit Oli \\
+	29.\,03.\,2014 & Thementag "`Technik und Internet"' im Rahmen der Jugendweihe-Vorbereitung \\
+	12.\,05.\,2014 & Einführung in die Programmiersprache julia durch mk \\
+	25.\,09.\,2014 & Python-Workshop Teil 2 mit Markus \\
+\bottomrule
 	\end{tabularx}
 	\caption{Liste der besonderen Vorträge und Workshops}
 \end{table}
@@ -461,9 +466,9 @@ Auch sollte dies in ausreichenden Maß dokumentiert werden, um später die Erkl�
 
 \subsubsection{Auslösung Kautionsdarlehen}
 \label{sec:katrionsdarlehen}
-Bis August 2015 muss der Verein seiner Vereinbarung mit den Darlehensgebern nachkommen und an die fünf Personen je \SI{333}{\EUR} zurückzahlen, die diese 2012 zur Hinterlegung der Kaution für die Vereinsräume in der Krautgasse~26 zinsfrei zur Verfügung gestellt haben.
-Dies ist fest eingeplant und es sind bereits \SI{915,98}{\EUR} dafür bereitgestellt.
-Das bedeutet aber auch das weitere \SI{749,02}{\EUR} bis August dafür verfügbar sein müssen.
+Bis August 2015 muss der Verein seiner Vereinbarung mit den Darlehensgebern nachkommen und an die fünf Personen je \num{333}~\euro{} zurückzahlen, die diese 2012 zur Hinterlegung der Kaution für die Vereinsräume in der Krautgasse~26 zinsfrei zur Verfügung gestellt haben.
+Dies ist fest eingeplant und es sind bereits \num{915,98}~\euro{} dafür bereitgestellt.
+Das bedeutet aber auch das weitere \num{749,02}~\euro{} bis August dafür verfügbar sein müssen.
 
 \subsection{Mitgliederentwicklung}
 Wir haben weiterhin ein Defizit bei der Finanzierung des Krautspaces und der Vereinskosten aus den Mitgliedsbeiträgen.
